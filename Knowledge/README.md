@@ -2,50 +2,50 @@
 
 ## Commonly used
 
-[Linux Tips](linux_tips.md) `#linux` 
+[Linux Tips](Knowledge/linux_tips.md) `#linux` 
 
 ## Research topics
 
-[Deep Learning in Protein Structure](deep_learning_in_protein_structure.md) `#protein #deeplearning`
+[Deep Learning in Protein Structure](Knowledge/deep_learning_in_protein_structure.md) `#protein #deeplearning`
 
-[RNA Secondary Structure](rna_secondary_structure.md) `#RNA #deeplearning`
+[RNA Secondary Structure](Knowledge/rna_secondary_structure.md) `#RNA #deeplearning`
 
-[Structure Alignment](structure_alignment.md) `#protein #algorithm`
+[Structure Alignment](Knowledge/structure_alignment.md) `#protein #algorithm`
 
-[Structure Embedding](structure_embedding.md) `#protein #deeplearning`
+[Structure Embedding](Knowledge/structure_embedding.md) `#protein #deeplearning`
 
-[3D Point Cloud](3d_point_cloud.md) `#protein #deeplearning`
+[3D Point Cloud](Knowledge/3d_point_cloud.md) `#protein #deeplearning`
 
-[Protein Function Prediction](protein_function_prediction.md) `#protein #deeplearning`
+[Protein Function Prediction](Knowledge/protein_function_prediction.md) `#protein #deeplearning`
 
 ## Biology topics
 
-[20 Amino Acid](20_amino_acid.md) `#protein`
+[20 Amino Acid](Knowledge/20_amino_acid.md) `#protein`
 
-[AMBER Installation](amber_installation.md) `#amber`
+[AMBER Installation](Knowledge/amber_installation.md) `#amber`
 
-[PyMOL](pymol.md) `#pymol`
+[PyMOL](Knowledge/pymol.md) `#pymol`
 
-[SASA](sasa.md) `#protein`
+[SASA](Knowledge/sasa.md) `#protein`
 
 ## Computer topics
 
-[Git](git.md) `#git`
+[Git](Knowledge/git.md) `#git`
 
-[Linux Tips](linux_tips.md) `#linux` 
+[Linux Tips](Knowledge/linux_tips.md) `#linux` 
 
 
 
 ## Science topics
 
-[Graph Theory](graph_theory.md) `#math`
+[Graph Theory](Knowledge/graph_theory.md) `#math`
 
-[Quantum Information](quantum_information.md) `#quantum`
+[Quantum Information](Knowledge/quantum_information.md) `#quantum`
 
-[Zettelkasten](zettelkasten.md) `#notesystem`
+[Zettelkasten](Knowledge/zettelkasten.md) `#notesystem`
 
 
 
 ## Other topics
 
-[Rules](rules.md)
+[Rules](Knowledge/rules.md) `#notesystem`
