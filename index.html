@@ -12,8 +12,36 @@
   <div id="app">少女祈祷中...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'Ultimate Dogma',
+      repo: 'Zuricho/Ultimate_Dogma',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      search: {
+        maxAge: 3600000, // Expiration time, one hour
+        paths: 'auto',
+        // Localization
+        placeholder: {
+          '/zh-cn/': '搜索',
+          '/': 'Type to search'
+        },
+        // Localization
+        noData: {
+          '/zh-cn/': '似乎来到了法外之地...',
+          '/': 'Ultimate Dogma can\'t cover this far.'
+        },
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: true,
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        namespace: 'ultimatedogma.com',
+      },
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      }
     }
     window.$docsify = {
       loadSidebar: true
@@ -21,5 +49,8 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>
 </html>
