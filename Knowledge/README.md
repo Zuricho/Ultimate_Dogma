@@ -2,50 +2,54 @@
 
 ## Commonly used
 
-[Linux Tips](./linux_tips.md) `#linux` 
+[Linux Tips](linux_tips.md) `#linux` 
 
 ## Research topics
 
-[Deep Learning in Protein Structure](./deep_learning_in_protein_structure.md) `#protein #deeplearning`
+[Deep Learning in Protein Structure](deep_learning_in_protein_structure.md) `#protein #deeplearning`
 
-[RNA Secondary Structure](./rna_secondary_structure.md) `#RNA #deeplearning`
+[RNA Secondary Structure](rna_secondary_structure.md) `#RNA #deeplearning`
 
-[Structure Alignment](./structure_alignment.md) `#protein #algorithm`
+[Structure Alignment](structure_alignment.md) `#protein #algorithm`
 
-[Structure Embedding](./structure_embedding.md) `#protein #deeplearning`
+[Structure Embedding](structure_embedding.md) `#protein #deeplearning`
 
-[3D Point Cloud](./3d_point_cloud.md) `#protein #deeplearning`
+[3D Point Cloud](3d_point_cloud.md) `#protein #deeplearning`
 
-[Protein Function Prediction](./protein_function_prediction.md) `#protein #deeplearning`
+[Protein Function Prediction](function_prediction.md) `#protein #deeplearning`
+
+[DeepFRI](deepfri.md) `protein #deeplearning`
 
 ## Biology topics
 
-[20 Amino Acid](./20_amino_acid.md) `#protein`
+[20 Amino Acid](20_amino_acid.md) `#protein`
 
-[AMBER Installation](./amber_installation.md) `#amber`
+[AMBER Installation](amber_installation.md) `#amber`
 
-[PyMOL](./pymol.md) `#pymol`
+[PyMOL](pymol.md) `#pymol`
 
-[SASA](./sasa.md) `#protein`
+[SASA](sasa.md) `#protein`
 
 ## Computer topics
 
-[Git](./git.md) `#git`
+[Git](git.md) `#git`
 
-[Linux Tips](./linux_tips.md) `#linux` 
+[Linux Tips](linux_tips.md) `#linux` 
 
 
 
 ## Science topics
 
-[Graph Theory](./graph_theory.md) `#math`
+[Graph Theory](graph_theory.md) `#math`
 
-[Quantum Information](./quantum_information.md) `#quantum`
+[Quantum Information](quantum_information.md) `#quantum`
 
-[Zettelkasten](./zettelkasten.md) `#notesystem`
+[Zettelkasten](zettelkasten.md) `#notesystem`
 
 
 
 ## Other topics
 
-[Rules](./rules.md) `#notesystem`
+[Rules](rules.md) `#notesystem`
+
+[Build Website](build_website.md)

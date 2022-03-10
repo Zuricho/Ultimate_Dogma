@@ -2,7 +2,7 @@
 
 > Wir mussen wissen. Wir werden wissen. (We must know. We will know.) *David Hilvert*
 
-After several trial in building a personal knowledge base, finally I create this site, [ultimate dogma](ultimatedogma.com).
+After several trial in building a personal knowledge base, finally I create this site, [Ultimate Dogma](www.ultimatedogma.com).
 
 In ultimate dogma, you can find:
 
