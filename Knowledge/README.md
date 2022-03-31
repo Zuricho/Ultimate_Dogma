@@ -36,7 +36,11 @@
 
 [Linux Tips](linux_tips.md) `#linux` 
 
+[Windows Tips](windows_tips.md) 
 
+[Data Visualization](data_visualization.md) `#html #javascript #d3js`
+
+[Deep Learning Book Notes](deep_learning_book.md) `#deeplearning`
 
 ## Science topics
 
