@@ -1,0 +1,428 @@
+# Side Quest of *ELDEN RING*
+
+**Quest Giver** **Steps to Complete****NPCs Affected By Quest****Quest Lock-Out Conditions (excl. Death of NPC)**
+
+## [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre)
+
+- [ ] Exhaust Varre's dialogue at The First Step Site of Grace.
+
+- [ ] Exhaust everyone's dialogue at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+
+- [ ] Exhaust Varre's dialogue at The First Step Site of Grace, again.
+
+- [ ] Defeat [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted).
+
+- [ ] Exhaust [Enia](https://eldenring.wiki.fextralife.com/Enia)'s dialogue at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+
+- [ ] Exhaust Varre's dialogue at The First Step Site of Grace.
+
+- [ ] Exhaust Varre's dialogue at [Rose Church](https://eldenring.wiki.fextralife.com/Rose+Church). He'll give you [Festering Bloody Finger](https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger) (x5). Use them to perform 3 invasions (success/failure has no impact).
+
+- [ ] Exhaust Varre's dialogue at The First Step Site of Grace.
+
+- [ ] Soak the Lord of Blood’s Favor in the blood of a maiden to turn it into the Bloodied Lord of Blood’s Favor. For this, do any one of the following, and interact with the corpse:
+  
+  - [ ] Find the dead maiden in the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition).
+  
+  - [ ] Kill [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
+  
+- [ ] Give Varre the [Bloodied Lord of Blood’s Favor](https://eldenring.wiki.fextralife.com/Bloodied+Lord+of+Blood’s+Favor). He'll give you a resusable [Bloody Finger](https://eldenring.wiki.fextralife.com/Bloody+Finger), and the [Pureblood Knight's Medal](https://eldenring.wiki.fextralife.com/Pureblood+Knight's+Medal).
+
+- [ ] He'll invade 3 times in the blood swamp, kill him to get his armor set
+
+- [ ] Use the red sign near the Mausoleum Dynasty Midpoint Site of Grace to duel him.
+
+ **NPCs Affected By Quest**: [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta)
+
+## [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster)
+
+- [ ] Free Boc from his tree form in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Can be found south of the Agheel Lake North grace.
+- [ ] Talk to Boc at the [Coastal Cave](https://eldenring.wiki.fextralife.com/Coastal+Cave). Defeat the **boss of the cave and return to him**.
+- [ ] Give Boc his sewing tools
+- [ ] Boc will move to the Lake-Facing Cliffs Site of Grace, at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes)
+- [ ] Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle.
+- [ ] Boc will move to the Altus Highway Junction site of grace
+- [ ] Boc will move to the East Capital Rampart site of grace. 
+- [ ] Boc will voice his desire to be rebirthed by Rennala. Two choices to proceed:
+  - [ ] Give him a [Larval Tear](https://eldenring.wiki.fextralife.com/Larval+Tear). Upon resting, Boc will appear next to Rennala. Resting again, will make him die.
+  - [ ] Perform the ["You're Beautiful" Prattling Pate](https://eldenring.wiki.fextralife.com/Prattling+Pate+You're+Beautiful) in front of him, then discuss it (unknown if quest continues after this).
+
+## [Roderika](https://eldenring.wiki.fextralife.com/Roderika)
+
+- [ ] Exhaust her dialogue at [Stormhill Shack](https://eldenring.wiki.fextralife.com/Stormhill+Shack) in Limgrave
+- [ ] Obtain [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) from [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle)
+- [ ] Give her the memento
+- [ ] Talk to her and Smithing Master Hewg several times in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). He will take her as his apprentice
+- [ ] Return to where you found the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) to find the [Crimson Hood](https://eldenring.wiki.fextralife.com/Crimson+Hood)
+- [ ] After a major story event involving the Erdtree, she moves to the fireplace in the round table. She asks you to speak to smithing Master Hewg and try to convince him to leave the roundtable.
+
+ **NPCs Affected By Quest**: [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg)
+
+## [D Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Hunter+of+the+Dead)
+
+- [ ] Talk to him in [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill), pàst the Saintsbridge. He will talk about the enemies in Summonwater Village Ruins. Defeat the enemies and go back to D to continue the quest. He will then give the location for the Sending gate in the to the Bestial Sanctum and meet Gurranq.
+- [ ] Defeat a [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) boss
+- [ ] Obtain the map to [Bestial Sanctum](https://eldenring.wiki.fextralife.com/Bestial+Sanctum)
+- [ ] He will appear in the Roundtable Hold, sitting in a chair. He will sell some spells to you.
+- [ ] Give him the Weathered Dagger you get from Fia's questline. Reloading the area will open the door on the right side of the Hold. D will be dead.
+
+**NPCs Affected By Quest**: [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman), [Fia](https://eldenring.wiki.fextralife.com/Fia)
+
+## [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman)
+
+- [ ] Talk to him at Bestial Sanctum after doing D, Hunter of the Dead's Quest.
+- [ ] He can be fed [Deathroot](https://eldenring.wiki.fextralife.com/Deathroot), up to a maximum of nine (9) times, in exchange for Bestial-related items.
+- [ ] His final reward is an [Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone).
+  **Note:** After being given his fourth Deathroot, Gurranq will turn hostile towards the player. His aggression can be abated by whittling down his HP.
+
+## [Thops](https://eldenring.wiki.fextralife.com/Thops)
+
+- [ ] Talk to him at [Church of Irith](https://eldenring.wiki.fextralife.com/Church+of+Irith), in [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes).
+- [ ] Obtain the second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key). Found inside the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy).
+- [ ] Return to the [Church of Irith](https://eldenring.wiki.fextralife.com/Church+of+Irith) and give him the key. Reload to find he has gone. You will find a [Teardrop Scarab](https://eldenring.wiki.fextralife.com/Teardrop+Scarab) that drops an [Ash of War: Thops's Barrier](https://eldenring.wiki.fextralife.com/Ash+of+War:+Thops's+Barrier) instead.
+- [ ] Find his corpse just outside the room with the Schoolhouse Classroom Site of Grace, within the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy), to obtain [Thops Barrier](https://eldenring.wiki.fextralife.com/Thops+Barrier), [Thops's Bell Bearing](https://eldenring.wiki.fextralife.com/Thops's+Bell+Bearing) and [Academy Glintstone Staff](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Staff).
+
+## [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta)
+
+- [ ] Talk to her at Lake-Facing Cliffs Site of Grace
+- [ ] Giver her [Shabriri Grapes](https://eldenring.wiki.fextralife.com/Shabriri+Grape). Rewards you with the [As You Wish Gesture](https://eldenring.wiki.fextralife.com/Gestures).
+- [ ] Find her in the western side of the [Purified Ruins](https://eldenring.wiki.fextralife.com/Purified+Ruins). She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape)
+- [ ] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
+- [ ] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape).
+- [ ] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
+- [ ] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina).
+
+**NPCs Affected By Quest**: [Melina](https://eldenring.wiki.fextralife.com/Melina)
+
+## [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight)
+
+- [ ] Meet him in the northern area of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood) and exhaust his dialogue
+- [ ] Liberate [Fort Haight](https://eldenring.wiki.fextralife.com/Fort+Haight)
+- [ ] Return to him for your reward: [Erdsteel Dagger](https://eldenring.wiki.fextralife.com/Erdsteel+Dagger)
+- [ ] Accept his Accord
+- [ ] Exhaust his dialogue at Fort Haight.
+- [ ] Defeat Godrick and proceed with Nepheli Loux's questline. Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue. (The Stormhawk King can be found at the Chapel of Anticipation upon return)
+- [ ] Travel to Godrick's grace and rest at it. Kenneth and Nepheli can then be found inside the throne room.
+
+**Note:** [Morgott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before he will appear in throne room.
+
+ ## [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
+
+- [ ] When you first get access to Torrent, going to the [Church of Elleh](https://eldenring.wiki.fextralife.com/Church+of+Elleh) at night to meet [Renna](https://eldenring.wiki.fextralife.com/Renna)/[Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
+- [ ] Meet Ranni in [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise)
+- [ ] Have her agree to let you serve her. This may require the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
+- [ ] Talk to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), and [Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) before returning to talk to Ranni
+- [ ] Find [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) in the [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River) area. [Link [here](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&lat=-184.97187&lng=136.09082&zoom=8&code=mapB)]
+- [ ] Talk to Selvius to gain [Seluvis's Introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction), and take the item to [Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins)
+- [ ] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), this will lead to a falling star crashing into a field south of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood)
+- [ ] Drop down into the resulting crater and navigate to [Nokron](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City)
+- [ ] Reach [Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground) and collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade)
+- [ ] Return the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) to Ranni and collect the [Carian Inverted Statue](https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue)
+- [ ] Go to the [Carian Study Hall](https://eldenring.wiki.fextralife.com/Carian+Study+Hall), and use the statue to reach the top of the [Divine Tower of Liurnia](https://eldenring.wiki.fextralife.com/Divine+Tower+of+Liurnia)
+- [ ] Acquire the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) from the body
+- [ ] At [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) collect [Miniature Ranni](https://eldenring.wiki.fextralife.com/Miniature+Ranni)
+- [ ] Rest at the [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) grace site and speak with Ranni, she'll task you with defeating the [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow)
+- [ ] Travel along the Ainsel River until you reach [Nokstella](https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City). 
+- [ ] Defeat [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow) for [Discarded Palace Key](https://eldenring.wiki.fextralife.com/Discarded+Palace+Key)
+- [ ] Unlock chest in [Raya Lucaria Grand Library](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Grand+Library) next to [Rennala](https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon) for Dark Moon Ring
+- [ ] With the ring, travel back to the [Lake of Rot](https://eldenring.wiki.fextralife.com/Lake+of+Rot) in the Ainsel River area, continuing to the [Grand Cloister](https://eldenring.wiki.fextralife.com/Grand+Cloister)
+- [ ] Using the coffin in the Grand Cloister, access and defeat [Astel](https://eldenring.wiki.fextralife.com/Astel,+Naturalborn+of+the+Void)
+- [ ] Continue to the [Moonlight Altar](https://eldenring.wiki.fextralife.com/Moonlight+Altar), past [Glintstone Dragon Adula](https://eldenring.wiki.fextralife.com/Glintstone+Dragon+Adula), and enter the [Cathedral of Manus Celes](https://eldenring.wiki.fextralife.com/Cathedral+of+Manus+Celes)
+- [ ] Use the Dark Moon Ring on the Miniature Ranni to revive Ranni for [Dark Moon Greatsword](https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword)
+- [ ] If you return to Ranni's Chamber, after achieving the Age of Stars ending, there is additional dialogue with Miniature Ranni.
+
+**NPCs Affected By Quest**: [War Counseler Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Selvius](https://eldenring.wiki.fextralife.com/Selvius), [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
+
+## [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander)
+
+- [ ] Alexander can be found in Northern [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=772&lat=-177.171875&lng=106.519955&zoom=8)]
+- [ ] After that he can be found at [Gael Tunnel](https://eldenring.wiki.fextralife.com/Gael+Tunnel)
+- [ ] He can be found at Redmane Castle, preparing to enter the festival, alongside [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd).
+- [ ] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace.
+- [ ] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him.
+- [ ] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava. 
+- [ ] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional)
+- [ ] At [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula), Alexander can be found on a large flat span of ruins and challenges player. Drops [Shard of Alexander](https://eldenring.wiki.fextralife.com/Shard+of+Alexander) as well as Warrior Jar Shard
+
+## [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd)
+
+- [ ] Once you enter Mistwood, you will hear a wolf howling.
+- [ ] Return to [Merchant Kalé](https://eldenring.wiki.fextralife.com/Merchant+Kalé) and ask him about it. He will teach you the Finger Snap gesture
+- [ ] Return to Mistwood and use this gesture after hearing the howl to summon [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd).
+- [ ] Talk to him when you find him, and he will announce that he is looking for a man named "Darriwil"
+- [ ] Head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to fight [Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil). [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) will make an appearance as a summon and after the fight is over, talk to him to receive [Somber Smithing Stone (2)](https://eldenring.wiki.fextralife.com/Somber+Smithing+Stone+(2)).
+- [ ] Exhaust his dialog. He mentions a blacksmith ([Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)) 
+- [ ] Meet Iji and mention "Blaidd sent them" to unlock [Carian Filigreed Crest](https://eldenring.wiki.fextralife.com/Carian+Filigreed+Crest) to purchase.
+- [ ] [Renna](https://eldenring.wiki.fextralife.com/Renna) will request you to meet him at [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River). Enter the Siofra River Well and find Blaidd, exhaust his dialog.
+- [ ] He explains that after opening the way to Nokron he has been given another task.
+- [ ] Return to where you first met gim to find a message. Speak to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to free [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). Go back to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and talk to him.
+- [ ] After completing Ranni's questline [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) is at [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise), enraged and hostile. Kill him for his armor and greatsword.
+
+**NPCs Affected By Quest**: [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)，[Ranni](https://eldenring.wiki.fextralife.com/Renna)
+
+## [Fia](https://eldenring.wiki.fextralife.com/Fia)
+
+- [ ] Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia) after defeating [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted). She only talks only while holding you, so you have no choice but to accept her hug in order to start her quest.
+- [ ] Obtain the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) from the [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) and return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) to give it to [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier). Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia), reload the area and talk to Rogier again.
+- [ ] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
+- [ ] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+- [ ] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue.
+- [ ] Head to [Deeproot Depths](https://eldenring.wiki.fextralife.com/Deeproot+Depths) and go to the Prince of Death's Throne Grace and talk to her. When she asks if you came to kill her, ask for an embrace.
+- [ ] Give her the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) which you can get from [Ranni's Questline.](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
+- [ ] Exhaust her dialog and reload the area. She allows you to enter a dream and fight [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax).
+- [ ] Killing [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax) and returning will allow you to loot the Mending Rune of The Death-Prince where she lies along with [Fia's Hood](https://eldenring.wiki.fextralife.com/Fia's+Hood) and [Fia's Robe](https://eldenring.wiki.fextralife.com/Fia's+Robe).
+
+**NPCs Affected By Quest**: [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead)
+
+## [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen)
+
+- [ ] Find her at [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Accept to study under her teaching, exhaust all dialogues.
+- [ ] Return to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen). She tasks you to find another Sorcerer and gives you a key for an arcane ward.
+- [ ] Go to [Sellia Hideaway](https://eldenring.wiki.fextralife.com/Sellia+Hideaway) and open the Warded door in the second pit. Interact with the Sorcerer inside.
+- [ ] After defeating [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) return to her, exhaust dialog. 
+- [ ] Go to the [Redmane Castle](https://eldenring.wiki.fextralife.com/Redmane+Castle) throne room and exhaust dialogue with [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren), if you haven't already.
+- [ ] Find [Primeval Sorcerer Azur](https://eldenring.wiki.fextralife.com/Primeval+Sorcerer+Azur) and interact with him, near the [Hermit Village](https://eldenring.wiki.fextralife.com/+Hermit+Village). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+map?id=2307&lat=-89.835938&lng=70.905647&zoom=8&code=mapA)].
+- [ ] Meet her at the [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) for [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone).
+- [ ] Return to [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) and you'll find [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren). Exhaust his dialogue again until he mention's Sellen possibly moving to a new body.
+- [ ] Go to [Three Sisters](https://eldenring.wiki.fextralife.com/Three+Sisters) and hit the illusory floor in the center of the ruins, northeast of [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise). Inside is another illusory wall to the left of Selvius's message on the floor.
+- [ ] Interact with the Sellen puppet behind the illusory wall and give over the [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone).
+- [ ] Travel to Raya Lucaria Grand Library grace. Outside of the Library you'll find two summon signs.
+- [ ] **white** sign: you'll help Sellen kill Jerren, awarding: [Jerren's armor](https://eldenring.wiki.fextralife.com/Eccentric+Set) drop, [Glintstone Kris](https://eldenring.wiki.fextralife.com/Glintstone+Kris) and [Shard Spiral](https://eldenring.wiki.fextralife.com/Shard+Spiral) added to Sellen's shop, after transform Witch's Glintstone Crown.
+- [ ] **red sign:** you'll help Jerren kill Sellen, awarding [Witch's Glintstone Crown](https://eldenring.wiki.fextralife.com/Witch's+Glintstone+Crown) and her bell bearing. Talk to Jerren after reloading the area near the summon signs for [Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone)
+- [ ] If you chose to help [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen), after exhausting her dialogue in the Grand Library and reloading the area, Sellen will be in the body of an [Arcane Sphere of Faces](https://eldenring.wiki.fextralife.com/Arcane+Sphere+of+Faces). You can find her crown near the Grand Library Site of Grace. 
+
+**NPCs Affected By Quest**: [Prospector Seluvis](https://eldenring.wiki.fextralife.com/Prospector+Seluvis), [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren)
+
+## [Gowry](https://eldenring.wiki.fextralife.com/Gowry)
+
+- [ ] Talk to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he will ask you to find an [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle).
+- [ ] Defeat [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil) located in the [Swamp of Aeonia](https://eldenring.wiki.fextralife.com/Swamp+of+Aeonia) for [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle).
+- [ ] Return to him, exhaust his dialogue and reload the area.
+- [ ] Take the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) and reload the area. Exhaust her dialogue and reload the area again.
+- [ ] Return to [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and [Millicent](https://eldenring.wiki.fextralife.com/Millicent) will be standing there, exhaust her dialogue.
+- [ ] Reload the area and [Gowry](https://eldenring.wiki.fextralife.com/+Gowry) will be back at his shack.
+- [ ] Won't sell insect needles until you confront him about his true form, or kill him after finishing Millicent's quest line for his bell-bearing.
+
+**NPCs Affected By Quest**: [Millicent](https://eldenring.wiki.fextralife.com/Millicent)
+
+## [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn)
+
+- [ ] Exhaust his dialogue at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+- [ ] After reaching the Altus Plateu or defeating [Mad Tongue Alberich](https://eldenring.wiki.fextralife.com/Mad+Tongue+Alberich) and collecting the [Cipher Pata](https://eldenring.wiki.fextralife.com/Cipher+Pata), he will tell you he is going on a journey to find the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
+- [ ] After reloading, he appears just north of the Altus Highway Junction site of grace, exhaust his dialogue. 
+- [ ] On the north side of Altus Plateau there is a broken bridge, go here and interact with [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
+- [ ] Return to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) and exhaust his dialogue telling him you found the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
+- [ ] Reload the area and Corhyn will be next to the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) on the bridge, exhaust dialogue. 
+- [ ] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue.
+- [ ] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn).
+- [ ] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue.
+- [ ] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace. 
+- [ ] Continuing south, below the elevator, there's a new path that leads to a dead [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). His corpse drops the [Mending Rune of Perfect Order](https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order).
+- [ ] If looted a second time, after reloading the area, the player will find [Goldmask's Rags](https://eldenring.wiki.fextralife.com/Goldmask's+Rags), [Gold Bracelets](https://eldenring.wiki.fextralife.com/Gold+Bracelets), and the [Gold Waistwrap](https://eldenring.wiki.fextralife.com/Gold+Waistwrap).
+- [ ] [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) may have additional dialogue after the Perfect Order ending.
+
+**NPCs Affected By Quest**: [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask)
+
+## [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux)
+
+- [ ] Find her in the courtyard near Godricks grace. Exhaust her dialogue she will offer to help fight Godrick.
+  Note: you don't need to summon her for the fight for this to progress.
+- [ ] After defeating Godrick she will move to the library in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). 
+- [ ] Exhaust her dialogue for an Arsenal Charm.
+- [ ] Give her the [Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King) remains from the [Chapel of Anticipation](https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation).
+- [ ] Follow Kenneth Haight's questline. He can be found at the top of Fort Haight, lamenting the lack of a Lord for Limgrave. Exhaust dialogue.
+- [ ] Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room.
+
+**Note:** [Margott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before they will appear in the throne room.
+
+- [ ] Exhaust dialogue to receive reward.
+
+## [Seluvis](https://eldenring.wiki.fextralife.com/Seluvis)
+
+- [ ] Speak to [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) and receive his quest.
+- [ ] Find [Nepheli ](https://eldenring.wiki.fextralife.com/Nepheli+Loux)at [Village of the Albinaurics](https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics), exhaust her dialogue and kill [Omenkiller](https://eldenring.wiki.fextralife.com/+Omenkiller) nearby.
+- [ ] Go to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and find Nepheli downstairs and exhaust her dialogue.
+- [ ] Go to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) and ask him about Nepheli, and tell him about the potion.
+- [ ] Give potion to Ofnir, Nepheli or [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) to and complete the quest at Seluvis for his reward.
+  Note that giving the potion to Nepheli or Dung Eater will end their respective questlines.
+
+**NPCs Affected By Quest**: [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux) Must have spoken to Nepheli at least once to receive it.
+
+## [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)
+
+- [ ] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
+- [ ] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
+- [ ] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave).
+- [ ] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue.
+- [ ] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item.
+- [ ] After this you can fight him at Zamor Ruins Grace to get his armor set.
+
+Yura is slain during the initial encounter with Nerijus 
+
+## [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl)
+
+- [ ] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete two assassination quests for them.
+- [ ] Speak to Bernahl to recieve the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
+- [ ] Go to [Leyndell](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital) and find the red invasion sign. Fight alongside Bernahl for [Raging Wolf Set](https://eldenring.wiki.fextralife.com/Raging+Wolf+Set).
+- [ ] Report back to him at [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) for [Gelmir's Fury](https://eldenring.wiki.fextralife.com/Gelmir's+Fury) [Sorcery](https://eldenring.wiki.fextralife.com/Sorceries). 
+  Note: the above steps must be completed before defeating Rykard.
+- [ ] Defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) then exhaust Bernahl's dialouge.
+- [ ] Go to [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to find him as invader. Drops [Beast Champion Set](https://eldenring.wiki.fextralife.com/Beast+Champion+Set), [Devourer's Scepter](https://eldenring.wiki.fextralife.com/Devourer's+Scepter) and [Blasphemous Claw](https://eldenring.wiki.fextralife.com/Blasphemous+Claw).
+
+Defeating [Rykard, Lord of Blasphemy](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
+
+## [Patches](https://eldenring.wiki.fextralife.com/Patches)
+
+- [ ] Find and fight Patches at [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). When he surrenders, forgive him. He will open up shop there.
+- [ ] After finishing all dialogue, opening some other chest nearby and transport you to [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood). As you travel back to Murkwater Cave and talk to [Patches](https://eldenring.wiki.fextralife.com/Patches). If you Attack Patches you can use Beg for Mercy gesture to end the fight.
+- [ ] You can find [Patches](https://eldenring.wiki.fextralife.com/Patches) a second time on the Scenic Isle, near the Laskyar Ruins Site of grace, in [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes).
+- [ ] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete the first two assassination quests for them. Return to the Manor and speak to everyone there to receive individual requests.
+- [ ] Reload and speak to [Patches](https://eldenring.wiki.fextralife.com/Patches) to receive the [Letter to Patches](https://eldenring.wiki.fextralife.com/Letter+to+Patches).
+- [ ] Go to [Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Ruin-Strewn+Precipice) and find the red invasion sign. Defeat the target to receive the [Bull-Goat Armor Set](https://eldenring.wiki.fextralife.com/Bull-Goat+Armor). Reload the area and he'll reward you with the [Magma Whip Candlestick](https://eldenring.wiki.fextralife.com/Magma+Whip+Candlestick).
+- [ ] [Patches](https://eldenring.wiki.fextralife.com/Patches) appears in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle). He gives you the [Dancer's Castanets](https://eldenring.wiki.fextralife.com/Dancer's+Castanets). Can be given to [Tanith](https://eldenring.wiki.fextralife.com/Tanith).
+
+Defeating [Rykard, Lord of Blasphemy
+](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
+
+Killing [Patches](https://eldenring.wiki.fextralife.com/Patches) in the [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) will lock you out of his quest line (can't revive him at Church of Vows)
+
+## [Rya](https://eldenring.wiki.fextralife.com/Rya)
+
+- [ ] Meet her at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6127&lat=-155.906&lng=71.47457&zoom=8&code=mapA)]
+- [ ] Go to [Boilprawn Shack](https://eldenring.wiki.fextralife.com/Boil+Prawn+Shack).
+- [ ] Speak to [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), who sells the necklace for ![runes currency elden ring wiki guide 18](https://eldenring.wiki.fextralife.com/file/Elden-Ring/runes-currency-elden-ring-wiki-guide-18.png) 1,000 [Runes](https://eldenring.wiki.fextralife.com/Runes). Killing him is not recommended, he has a quest line later.
+- [ ] Return the necklace to [Rya](https://eldenring.wiki.fextralife.com/Rya) to obtain a [Volcanic Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) invitation.
+- [ ] After reaching [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) you can find [Rya](https://eldenring.wiki.fextralife.com/Rya) at [Lux Ruins](https://eldenring.wiki.fextralife.com/Lux+Ruins) (if you haven't received both halves of the Dectus Medallion) or at the top of the [Grand Lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+Lift+of+Dectus). Talk to her and she will teleport you inside [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor).
+  NOTE: If she does not appear in either of these locations, try teleporting to the Grand Lift and riding it to the top again to trigger her spawn.
+- [ ] Complete first part of Tanith's quest and she will move to a new room. Speak to her during her snake form to progress the questline.
+  NOTE: Proceeding [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) quests up to [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) makes this quest impossible to continue.
+- [ ] Return to [Rya](https://eldenring.wiki.fextralife.com/Rya), where she hints of secret passage. Enter the illusory wall in the room right of hers and reach the grace in Prison Town Church. Return to [Zoraya](https://eldenring.wiki.fextralife.com/Zoraya) and tell her what you have seen to continue.
+  (OPTIONAL) Speak to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) and choose the "Zoraya's troubles" option.
+- [ ] Defeat [Godskin Noble](https://eldenring.wiki.fextralife.com/Godskin+Noble) in Temple of Eiglay to get the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
+- [ ] Give the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion) to Zoraya and she will disappear from the manor.
+  (OPTIONAL) Speaking to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) will have the new option "Zoraya's absence". She will give a [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness) to give to the upset Zoraya.
+- [ ] Zoraya has moved to the Legacy Dungeon's interior. If you have fully unlocked the area, you can reach it by taking the wooden elevator next to the Temple of Eiglay, getting off at a hidden doorway just below the lift's highest point, and heading straight through the rooms beyond until you jump across a lava floe.
+  - [ ] if the elevator is not yet active, you can reach the lava floe (or unlock the elevator) by jumping off the balcony of the top floor of Temple of Eiglay.
+  - [ ] you can also reach this room by taking the wooden elevator to the top, going straight ahead toward the man-serpent with the lava sword, and jumping out the windows on the left.
+- [ ] She asks you to kill her and end her pain.
+  - [ ] if you kill her, she will transform back into a snake and drop [Daedicar's Woe](https://eldenring.wiki.fextralife.com/Daedicar's+Woe).
+  - [ ] if you leave her alive and return after killing Rykard, she realizes that you are not willing to kill her. When you reset the area, she is gone and has left [Daedicar's Woe](https://eldenring.wiki.fextralife.com/Daedicar's+Woe) and [Zoraya's letter](https://eldenring.wiki.fextralife.com/Zoraya's+letter) in her place.
+  - [ ] if you give her the Tonic of Forgetfulness, she simply goes to sleep.
+
+**NPCs Affected By Quest**: [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), [Tanith](https://eldenring.wiki.fextralife.com/Tanith)
+
+Defeating [Rykard, Lord of Blasphemy](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
+
+## [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)
+
+- [ ] You will find in the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold), after reaching [Leyndell, Royal Capital](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital).
+- [ ] Give him one [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). After he asks you to find his body in sewers of Leyndell and kill him. He gives you the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key).
+- [ ] Once you find him trapped in cell you can choose to kill him or free him.
+- [ ] If you free the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) a new message will appear in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) suggesting you meet him at the Outer Moat so he can kill you.
+- [ ] Meet him in proposed location. [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4605&lat=-93.653126&lng=115.069298&zoom=8&code=mapA)]
+- [ ] Dung Eater will invade you. Defeating him rewards [Furcalling Finger Remedy](https://eldenring.wiki.fextralife.com/Furcalling+Finger+Remedy) and [Sword of Milos](https://eldenring.wiki.fextralife.com/Sword+of+Milos).
+- [ ] Travel back to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) will ask you to give his body 5 Seedbed Curses, doing so will allow you to receive the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse) to trigger an alternate [ending](https://eldenring.wiki.fextralife.com/Endings) the game, as well as his armor set.
+- [ ] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there.
+
+**NPCs Affected By Quest**: [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), [Seluvis](https://eldenring.wiki.fextralife.com/Seluvis)
+
+Reach Leyndell to unlock
+
+Given [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) Seluvis potion, preventing you from completing the quest.
+
+## [Millicent](https://eldenring.wiki.fextralife.com/Millicent)
+
+- [ ] Speak with [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in his [shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he tasks you to get [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle) dropped by [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil).
+- [ ] Return to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) with the needle. He will give you [Sellia's Secret](https://eldenring.wiki.fextralife.com/Sellia's+Secret).
+- [ ] Warp to a nearby point and return and he'll give you the repaired needle.
+- [ ] Light the beacons in Sellia according to Sellia's Secret. Each beacon also opens a barrier with loot.
+- [ ] Bring the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&lat=-178.42187&lng=150.72784&zoom=8&code=mapA)]
+- [ ] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack.
+- [ ] Return to Gowry's shack. Millicent is there. Exhaust her dialog. Quit and reload at the shack, this will move Millicent and have Gowry return.
+- [ ] Millicent moves to north of the Erdtree-Gazing Hill Grace [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&lat=-97.914062&lng=75.558451&zoom=8&code=mapA)]. Give her [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis). (It can be found in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle))
+- [ ] After defeating boss of [Dominula](https://eldenring.wiki.fextralife.com/Windmill+Village) she will be near the Windmill Heights Grace after reload [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5809&lat=-76.82&lng=99.95&zoom=8&code=mapA)]. Exhaust her dialogue.
+- [ ] Millicent will move to Ancient Snow Valley Ruins Grace.
+- [ ] Millicent will move to the Prayer Room Grace. She will not move until player has defeated an [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Ulcerated+Tree+Spirit) mini-boss just before the Drainage Channel Grace.
+- [ ] Once player defeats the mini-boss and rests at a Grace, there will be two summon signs near where the mini boss used to be:
+  - [ ] Use the golden summon sign, and help her fight 4 NPC invaders known as Millicent’s Sisters. After the fight, you'll get the [Rotten Winged Sword Insignia](https://eldenring.wiki.fextralife.com/Rotten+Winged+Sword+Insignia).
+  - [ ] Use the red summon sign to challenge her in her world. After the fight, you'll get [Millicent's Prosthesis](https://eldenring.wiki.fextralife.com/Millicent's+Prosthesis). [ENDS QUESTLINE]
+- [ ] After invasion, reload the area again and she will be near where her summoning sign was, laying by the pool of scarlet rot down below.
+  - [ ] You can kill her to get Millicent's Prosthesis. [ENDS QUESTLINE]
+- [ ] Exhaust her dialog, and reload the area. She'll be dead, and you'll be able to loot her corpse for the [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle).
+- [ ] Kill [Malenia, Blade of Miquella](https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella).
+- [ ] In the room where you fight Malenia, use the [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle) on the [Scarlet Aeonia](https://eldenring.wiki.fextralife.com/Scarlet+Aeonia) Malenia left behind. You'll get [Miquella’s Needle](https://eldenring.wiki.fextralife.com/Miquella's+Needle).
+- [ ] You can use [Miquella's Needle](https://eldenring.wiki.fextralife.com/Miquella's+Needle) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to reverse the [Lord of Frenzied Flame Ending](https://eldenring.wiki.fextralife.com/Endings).
+
+**NPCs Affected By Quest**: [Gowry](https://eldenring.wiki.fextralife.com/Gowry)
+
+## [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart)
+
+- [ ] Boggart is introduced as the thief from [Rya](https://eldenring.wiki.fextralife.com/Rya)'s questline.
+- [ ] Buy the necklace from him for ![runes currency elden ring wiki guide 18](https://eldenring.wiki.fextralife.com/file/Elden-Ring/runes-currency-elden-ring-wiki-guide-18.png) 1,000 [Runes](https://eldenring.wiki.fextralife.com/Runes).
+  Note: You must initiate the quest from [Rya](https://eldenring.wiki.fextralife.com/Rya) before reaching [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) or you're unable to progress.
+- [ ] Buy [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from him. This befriends him and progresses his questline.
+- [ ] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight.
+- [ ] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab).
+- [ ] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater).
+- [ ] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby.
+- [ ] Then reload the area, and you must interact with the now-wounded blackguard to trigger the invasion.
+- [ ] A [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse) will be found on Big Boggart's body at the end of his questline, along with his drops. If you have been invaded by the Dung Eater in the moat before Boggart moves there, you will be unable to get a Seedbed Curse from his body.
+- [ ] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there.
+
+**NPCs Affected By Quest**: [Rya](https://eldenring.wiki.fextralife.com/Rya), [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)
+
+## [Latenna](https://eldenring.wiki.fextralife.com/Latenna)
+
+- [ ] Latenna can be found at [Slumbering Wolf's Shack](https://eldenring.wiki.fextralife.com/Slumbering+Wolfs+Shack)
+- [ ] Latenna's questline revolves around a separate NPC, [Albus](https://eldenring.wiki.fextralife.com/Albus)
+- [ ] Speak to Albus for [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)).
+- [ ] Return Medallion to Latenna. 
+- [ ] Promise to take Latenna to Haligtree. She joins and becomes Spirit Ash summon, [Latenna the Albinauric](https://eldenring.wiki.fextralife.com/Latenna+The+Albinauric) She will also hint at the location of the [Haligtree Secret Medallion (Left)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)).
+- [ ] Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric, rewarding [Somber Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone).
+
+ Advancing too far and not speaking to Latenna (dies, drops Spirit Ashes)
+
+## [Ensha](https://eldenring.wiki.fextralife.com/Ensha)
+
+- [ ] Upon first interaction, players obtain the What Do You Want? Gesture from Ensha of the Royal Remains.
+- [ ] After obtaining the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)), Ensha will invade the player the next time they teleport to Roundtable Hold. Defeating Ensha rewards the [Royal Remains Set](https://eldenring.wiki.fextralife.com/Royal+Remains+Set) from where he used to stand.
+
+## [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
+
+- [ ] First met in [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle) by the altar of the Chapel [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1103&lat=-177.660938&lng=85.012938&zoom=8&code=mapA)] 
+- [ ] After defeating Godrick moves to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). NOTE: Rogier **will die** if you speak with [Ranni](https://eldenring.wiki.fextralife.com/Ranni) before finishing his quest!
+- [ ] At Stormveil Castle, examine Rogier's bloodstain near the rotting face, in the area where [Root Monster](https://eldenring.wiki.fextralife.com/Root+Monster) spawns.
+- [ ] Ask Rogier about the face.
+- [ ] Talk to Fia and allow her to hold you. Exhaust lines "Talk in secret", "Did you know?" and "About the Black Knifeprint".
+- [ ] Defeat [Black Knight Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) miniboss in [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) by riding the trap to the upper level [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&lat=-117.148437&lng=80.909102&zoom=8&code=mapA)] for the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
+- [ ] Return the Knifeprint to Rogier. Reload the area and he will ask you to look for [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
+- [ ] Upon talking to Ranni she tells the player to leave. Return to Rogier who suggests becoming Ranni's vassal.
+- [ ] [Ranni](https://eldenring.wiki.fextralife.com/Ranni) allows player to become her vassal. Returing to Rogier results in him falling into a deep slumber.
+- [ ] Soon after Rogier will die, leaving behind his set and a letter.
+
+## [Diallos](https://eldenring.wiki.fextralife.com/Diallos)
+
+- [ ] Exhaust Diallos' dialogue at [Roundtable hold](https://eldenring.wiki.fextralife.com/Roundtable+hold).
+- [ ] Exhaust Diallos' dialogue northwest of the Academy Gate Town Site of Grace in Northern Liurnia atop a sunken roof. [[Map](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&lat=-143.0156&lng=68.55965&zoom=8&code=mapA)]
+- [ ] Exhaust Diallos' dialogue at Roundtable hold.
+- [ ] Join [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE]
+- [ ] Exhaust Diallos' dialogue in Volcano Manor's drawing room.
+- [ ] Finish Volcano Manor's questline, or defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy).
+- [ ] After progressing the [Jarburg](https://eldenring.wiki.fextralife.com/Jarburg) questline he will appear in one of the shacks, tending to [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
+- [ ] Revisiting Jarburg after sometime will have you find the town damaged; Diallos will be there. Exhaust Diallos' dialogue. Then, exhaust Jar-Bairn's dialogue.
+- [ ] Rest at a Site of Grace.
+- [ ] Jar-Bairn will move over Diallos. Rest at a Site of Grace or reload the area.
+- [ ] Diallos will disappear, leaving [Diallos's Mask](https://eldenring.wiki.fextralife.com/Diallos's+Mask), [Hoslow's Petal Whip](https://eldenring.wiki.fextralife.com/Hoslow's+Petal+Whip), and a [Numen's Rune](https://eldenring.wiki.fextralife.com/Numen's+Rune) where he was last encountered.
+
+## [Tanith](https://eldenring.wiki.fextralife.com/Tanith)
+
+- [ ] Exhaust dialogue when first encountered in [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), to get the [Drawing-Room Key](https://eldenring.wiki.fextralife.com/Drawing-Room+Key).
+- [ ] Enter the room with Rya, get the [letter](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) and go talk to Tanith again where she will tell you to assassinate [Old Knight Istvan](https://eldenring.wiki.fextralife.com/Old+Knight+Istvan).
+- [ ] Invade Istvan at [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill) and kill him, return to Tanith to get the [Magma Shot](https://eldenring.wiki.fextralife.com/Magma+Shot) sorcery.
+- [ ] Reload the area to find another Letter, this time to assassinate [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle) in [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau).
+- [ ] Return to Tanith, she will reward you with the [Serpentbone Blade](https://eldenring.wiki.fextralife.com/Serpentbone+Blade).
+- [ ] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight.
+- [ ] After beating Rykard, return to Tanith and speak to her again.
+- [ ] Reload the area, she will now be in Rykard's boss area, feasting on his corpse.
+- [ ] Killing Tanith rewards you with the [Consort's Set](https://eldenring.wiki.fextralife.com/Consort's+Set).
+- [ ] After killing her, you will be invaded by her bodyguard, who drops the [Aspect of the Crucible: Breath](https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible%3A+Breath) incantation.
