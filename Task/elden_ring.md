@@ -4,7 +4,7 @@ In this page, I will use a list to record and track my conquer through "crosslan
 
 Find different classifications in subpages:
 
-- [Boss](boss.md)
-- [Site of Grace](grace.md)
-- [Side Quest](side_quest.md)
+- [Boss](elden_ring/boss.md)
+- [Site of Grace](elden_ring/grace.md)
+- [Side Quest](elden_ring/side_quest.md)
 
