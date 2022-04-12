@@ -34,9 +34,9 @@
 
 ## [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster)
 
-- [ ] Free Boc from his tree form in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Can be found south of the Agheel Lake North grace.
-- [ ] Talk to Boc at the [Coastal Cave](https://eldenring.wiki.fextralife.com/Coastal+Cave). Defeat the **boss of the cave and return to him**.
-- [ ] Give Boc his sewing tools
+- [x] Free Boc from his tree form in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Can be found south of the Agheel Lake North grace. (04-11)
+- [x] Talk to Boc at the [Coastal Cave](https://eldenring.wiki.fextralife.com/Coastal+Cave). Defeat the **boss of the cave and return to him**. (04-11)
+- [x] Give Boc his sewing tools (04-11)
 - [ ] Boc will move to the Lake-Facing Cliffs Site of Grace, at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes)
 - [ ] Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle.
 - [ ] Boc will move to the Altus Highway Junction site of grace
@@ -51,7 +51,7 @@
 - [x] Obtain [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) from [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle)
 - [x] Give her the memento
 - [x] Talk to her and Smithing Master Hewg several times in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). He will take her as his apprentice
-- [ ] Return to where you found the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) to find the [Crimson Hood](https://eldenring.wiki.fextralife.com/Crimson+Hood)
+- [x] Return to where you found the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) to find the [Crimson Hood](https://eldenring.wiki.fextralife.com/Crimson+Hood) (04-11)
 - [x] After a major story event involving the Erdtree, she moves to the fireplace in the round table. She asks you to speak to smithing Master Hewg and try to convince him to leave the roundtable.
 
  **NPCs Affected By Quest**: [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg)
@@ -62,7 +62,7 @@
 - [x] Defeat a [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) boss
 - [x] Obtain the map to [Bestial Sanctum](https://eldenring.wiki.fextralife.com/Bestial+Sanctum)
 - [x] He will appear in the Roundtable Hold, sitting in a chair. He will sell some spells to you.
-- [ ] Give him the Weathered Dagger you get from Fia's questline. Reloading the area will open the door on the right side of the Hold. D will be dead.
+- [x] Give him the Weathered Dagger you get from Fia's questline. Reloading the area will open the door on the right side of the Hold. D will be dead. (04-11)
 
 **NPCs Affected By Quest**: [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman), [Fia](https://eldenring.wiki.fextralife.com/Fia)
 
@@ -162,9 +162,9 @@
 
 - [x] Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia) after defeating [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted). She only talks only while holding you, so you have no choice but to accept her hug in order to start her quest.
 - [ ] Obtain the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) from the [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) and return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) to give it to [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier). Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia), reload the area and talk to Rogier again.
-- [ ] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
-- [ ] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
-- [ ] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue.
+- [x] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
+- [x] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). (04-11)
+- [x] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue. (04-11)
 - [ ] Head to [Deeproot Depths](https://eldenring.wiki.fextralife.com/Deeproot+Depths) and go to the Prince of Death's Throne Grace and talk to her. When she asks if you came to kill her, ask for an embrace.
 - [ ] Give her the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) which you can get from [Ranni's Questline.](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
 - [ ] Exhaust her dialog and reload the area. She allows you to enter a dream and fight [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax).
@@ -193,9 +193,9 @@
 
 ## [Gowry](https://eldenring.wiki.fextralife.com/Gowry)
 
-- [ ] Talk to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he will ask you to find an [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle).
-- [ ] Defeat [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil) located in the [Swamp of Aeonia](https://eldenring.wiki.fextralife.com/Swamp+of+Aeonia) for [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle).
-- [ ] Return to him, exhaust his dialogue and reload the area.
+- [x] Talk to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he will ask you to find an [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle). (04-12)
+- [x] Defeat [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil) located in the [Swamp of Aeonia](https://eldenring.wiki.fextralife.com/Swamp+of+Aeonia) for [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle). (04-12)
+- [x] Return to him, exhaust his dialogue and reload the area. (04-12)
 - [ ] Take the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) and reload the area. Exhaust her dialogue and reload the area again.
 - [ ] Return to [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and [Millicent](https://eldenring.wiki.fextralife.com/Millicent) will be standing there, exhaust her dialogue.
 - [ ] Reload the area and [Gowry](https://eldenring.wiki.fextralife.com/+Gowry) will be back at his shack.
@@ -248,9 +248,9 @@
 
 ## [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)
 
-- [ ] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
-- [ ] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
-- [ ] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave).
+- [x] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
+- [x] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
+- [x] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). (04-11)
 - [ ] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue.
 - [ ] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item.
 - [ ] After this you can fight him at Zamor Ruins Grace to get his armor set.
@@ -329,9 +329,9 @@ Reach Leyndell to unlock
 
 ## [Millicent](https://eldenring.wiki.fextralife.com/Millicent)
 
-- [ ] Speak with [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in his [shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he tasks you to get [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle) dropped by [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil).
-- [ ] Return to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) with the needle. He will give you [Sellia's Secret](https://eldenring.wiki.fextralife.com/Sellia's+Secret).
-- [ ] Warp to a nearby point and return and he'll give you the repaired needle.
+- [x] Speak with [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in his [shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he tasks you to get [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle) dropped by [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil). (04-12)
+- [x] Return to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) with the needle. He will give you [Sellia's Secret](https://eldenring.wiki.fextralife.com/Sellia's+Secret). (04-12)
+- [x] Warp to a nearby point and return and he'll give you the repaired needle. (04-12)
 - [ ] Light the beacons in Sellia according to Sellia's Secret. Each beacon also opens a barrier with loot.
 - [ ] Bring the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&lat=-178.42187&lng=150.72784&zoom=8&code=mapA)]
 - [ ] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack.
