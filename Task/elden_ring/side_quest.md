@@ -68,15 +68,15 @@
 
 ## [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman)
 
-- [ ] Talk to him at Bestial Sanctum after doing D, Hunter of the Dead's Quest.
-- [ ] He can be fed [Deathroot](https://eldenring.wiki.fextralife.com/Deathroot), up to a maximum of nine (9) times, in exchange for Bestial-related items.
+- [x] Talk to him at Bestial Sanctum after doing D, Hunter of the Dead's Quest. (04-12)
+- [x] He can be fed [Deathroot](https://eldenring.wiki.fextralife.com/Deathroot), up to a maximum of nine (9) times, in exchange for Bestial-related items. (04-12)
 - [ ] His final reward is an [Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone).
   **Note:** After being given his fourth Deathroot, Gurranq will turn hostile towards the player. His aggression can be abated by whittling down his HP.
 
 ## [Thops](https://eldenring.wiki.fextralife.com/Thops)
 
 - [x] Talk to him at [Church of Irith](https://eldenring.wiki.fextralife.com/Church+of+Irith), in [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes).
-- [ ] Obtain the second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key). Found inside the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy).
+- [x] Obtain the second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key). Found inside the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy). (04-14)
 - [ ] Return to the [Church of Irith](https://eldenring.wiki.fextralife.com/Church+of+Irith) and give him the key. Reload to find he has gone. You will find a [Teardrop Scarab](https://eldenring.wiki.fextralife.com/Teardrop+Scarab) that drops an [Ash of War: Thops's Barrier](https://eldenring.wiki.fextralife.com/Ash+of+War:+Thops's+Barrier) instead.
 - [ ] Find his corpse just outside the room with the Schoolhouse Classroom Site of Grace, within the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy), to obtain [Thops Barrier](https://eldenring.wiki.fextralife.com/Thops+Barrier), [Thops's Bell Bearing](https://eldenring.wiki.fextralife.com/Thops's+Bell+Bearing) and [Academy Glintstone Staff](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Staff).
 
@@ -196,9 +196,9 @@
 - [x] Talk to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he will ask you to find an [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle). (04-12)
 - [x] Defeat [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil) located in the [Swamp of Aeonia](https://eldenring.wiki.fextralife.com/Swamp+of+Aeonia) for [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle). (04-12)
 - [x] Return to him, exhaust his dialogue and reload the area. (04-12)
-- [ ] Take the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) and reload the area. Exhaust her dialogue and reload the area again.
-- [ ] Return to [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and [Millicent](https://eldenring.wiki.fextralife.com/Millicent) will be standing there, exhaust her dialogue.
-- [ ] Reload the area and [Gowry](https://eldenring.wiki.fextralife.com/+Gowry) will be back at his shack.
+- [x] Take the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) and reload the area. Exhaust her dialogue and reload the area again. (04-14)
+- [x] Return to [Gowry's Shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and [Millicent](https://eldenring.wiki.fextralife.com/Millicent) will be standing there, exhaust her dialogue. (04-14)
+- [x] Reload the area and [Gowry](https://eldenring.wiki.fextralife.com/+Gowry) will be back at his shack. (04-14)
 - [ ] Won't sell insect needles until you confront him about his true form, or kill him after finishing Millicent's quest line for his bell-bearing.
 
 **NPCs Affected By Quest**: [Millicent](https://eldenring.wiki.fextralife.com/Millicent)
@@ -251,7 +251,7 @@
 - [x] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
 - [x] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
 - [x] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). (04-11)
-- [ ] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue.
+- [x] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue. (04-14)
 - [ ] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item.
 - [ ] After this you can fight him at Zamor Ruins Grace to get his armor set.
 
@@ -332,10 +332,10 @@ Reach Leyndell to unlock
 - [x] Speak with [Gowry](https://eldenring.wiki.fextralife.com/Gowry) in his [shack](https://eldenring.wiki.fextralife.com/Gowry's+Shack) and he tasks you to get [Unalloyed Gold Needle](https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle) dropped by [Commander O'Neil](https://eldenring.wiki.fextralife.com/Commander+O'Neil). (04-12)
 - [x] Return to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) with the needle. He will give you [Sellia's Secret](https://eldenring.wiki.fextralife.com/Sellia's+Secret). (04-12)
 - [x] Warp to a nearby point and return and he'll give you the repaired needle. (04-12)
-- [ ] Light the beacons in Sellia according to Sellia's Secret. Each beacon also opens a barrier with loot.
-- [ ] Bring the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&lat=-178.42187&lng=150.72784&zoom=8&code=mapA)]
-- [ ] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack.
-- [ ] Return to Gowry's shack. Millicent is there. Exhaust her dialog. Quit and reload at the shack, this will move Millicent and have Gowry return.
+- [x] Light the beacons in Sellia according to Sellia's Secret. Each beacon also opens a barrier with loot. (04-14)
+- [x] Bring the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&lat=-178.42187&lng=150.72784&zoom=8&code=mapA)] (04-14)
+- [x] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack. (04-14)
+- [x] Return to Gowry's shack. Millicent is there. Exhaust her dialog. Quit and reload at the shack, this will move Millicent and have Gowry return. (04-14)
 - [ ] Millicent moves to north of the Erdtree-Gazing Hill Grace [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&lat=-97.914062&lng=75.558451&zoom=8&code=mapA)]. Give her [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis). (It can be found in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle))
 - [ ] After defeating boss of [Dominula](https://eldenring.wiki.fextralife.com/Windmill+Village) she will be near the Windmill Heights Grace after reload [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5809&lat=-76.82&lng=99.95&zoom=8&code=mapA)]. Exhaust her dialogue.
 - [ ] Millicent will move to Ancient Snow Valley Ruins Grace.
@@ -400,7 +400,7 @@ Reach Leyndell to unlock
 ## [Diallos](https://eldenring.wiki.fextralife.com/Diallos)
 
 - [x] Exhaust Diallos' dialogue at [Roundtable hold](https://eldenring.wiki.fextralife.com/Roundtable+hold).
-- [ ] Exhaust Diallos' dialogue northwest of the Academy Gate Town Site of Grace in Northern Liurnia atop a sunken roof. [[Map](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&lat=-143.0156&lng=68.55965&zoom=8&code=mapA)]
+- [x] Exhaust Diallos' dialogue northwest of the Academy Gate Town Site of Grace in Northern Liurnia atop a sunken roof. [[Map](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&lat=-143.0156&lng=68.55965&zoom=8&code=mapA)] (04-14)
 - [ ] Exhaust Diallos' dialogue at Roundtable hold.
 - [ ] Join [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE]
 - [ ] Exhaust Diallos' dialogue in Volcano Manor's drawing room.
