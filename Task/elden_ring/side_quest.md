@@ -14,7 +14,7 @@
 
 - [x] Exhaust Varre's dialogue at The First Step Site of Grace.
 
-- [ ] Exhaust Varre's dialogue at [Rose Church](https://eldenring.wiki.fextralife.com/Rose+Church). He'll give you [Festering Bloody Finger](https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger) (x5). Use them to perform 3 invasions (success/failure has no impact).
+- [x] Exhaust Varre's dialogue at [Rose Church](https://eldenring.wiki.fextralife.com/Rose+Church). He'll give you [Festering Bloody Finger](https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger) (x5). Use them to perform 3 invasions (success/failure has no impact). (04-15)
 
 - [ ] Exhaust Varre's dialogue at The First Step Site of Grace.
 
@@ -85,7 +85,7 @@
 - [x] Talk to her at Lake-Facing Cliffs Site of Grace
 - [x] Giver her [Shabriri Grapes](https://eldenring.wiki.fextralife.com/Shabriri+Grape). Rewards you with the [As You Wish Gesture](https://eldenring.wiki.fextralife.com/Gestures).
 - [x] Find her in the western side of the [Purified Ruins](https://eldenring.wiki.fextralife.com/Purified+Ruins). She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape)
-- [ ] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
+- [x] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape). (04-15)
 - [ ] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape).
 - [ ] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
 - [ ] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina).
@@ -291,8 +291,8 @@ Patches is DEAD
 - [x] Return the necklace to [Rya](https://eldenring.wiki.fextralife.com/Rya) to obtain a [Volcanic Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) invitation.
 - [x] After reaching [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) you can find [Rya](https://eldenring.wiki.fextralife.com/Rya) at [Lux Ruins](https://eldenring.wiki.fextralife.com/Lux+Ruins) (if you haven't received both halves of the Dectus Medallion) or at the top of the [Grand Lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+Lift+of+Dectus). Talk to her and she will teleport you inside [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor).
   NOTE: If she does not appear in either of these locations, try teleporting to the Grand Lift and riding it to the top again to trigger her spawn.
-- [ ] Complete first part of Tanith's quest and she will move to a new room. Speak to her during her snake form to progress the questline.
-  NOTE: Proceeding [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) quests up to [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) makes this quest impossible to continue.
+- [x] Complete first part of Tanith's quest and she will move to a new room. Speak to her during her snake form to progress the questline.
+  NOTE: Proceeding [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) quests up to [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) makes this quest impossible to continue. (04-15)
 - [ ] Return to [Rya](https://eldenring.wiki.fextralife.com/Rya), where she hints of secret passage. Enter the illusory wall in the room right of hers and reach the grace in Prison Town Church. Return to [Zoraya](https://eldenring.wiki.fextralife.com/Zoraya) and tell her what you have seen to continue.
   (OPTIONAL) Speak to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) and choose the "Zoraya's troubles" option.
 - [ ] Defeat [Godskin Noble](https://eldenring.wiki.fextralife.com/Godskin+Noble) in Temple of Eiglay to get the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
@@ -357,8 +357,8 @@ Reach Leyndell to unlock
 - [x] Boggart is introduced as the thief from [Rya](https://eldenring.wiki.fextralife.com/Rya)'s questline.
 - [x] Buy the necklace from him for 1,000 [Runes](https://eldenring.wiki.fextralife.com/Runes).
   Note: You must initiate the quest from [Rya](https://eldenring.wiki.fextralife.com/Rya) before reaching [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) or you're unable to progress.
-- [ ] Buy [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from him. This befriends him and progresses his questline.
-- [ ] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight.
+- [x] Buy [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from him. This befriends him and progresses his questline. (04-14)
+- [x] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight. (missed)
 - [ ] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab).
 - [ ] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater).
 - [ ] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby.
@@ -370,7 +370,7 @@ Reach Leyndell to unlock
 
 ## [Latenna](https://eldenring.wiki.fextralife.com/Latenna)
 
-- [ ] Latenna can be found at [Slumbering Wolf's Shack](https://eldenring.wiki.fextralife.com/Slumbering+Wolfs+Shack)
+- [x] Latenna can be found at [Slumbering Wolf's Shack](https://eldenring.wiki.fextralife.com/Slumbering+Wolfs+Shack) (04-15)
 - [ ] Latenna's questline revolves around a separate NPC, [Albus](https://eldenring.wiki.fextralife.com/Albus)
 - [ ] Speak to Albus for [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)).
 - [ ] Return Medallion to Latenna. 
@@ -401,9 +401,9 @@ Reach Leyndell to unlock
 
 - [x] Exhaust Diallos' dialogue at [Roundtable hold](https://eldenring.wiki.fextralife.com/Roundtable+hold).
 - [x] Exhaust Diallos' dialogue northwest of the Academy Gate Town Site of Grace in Northern Liurnia atop a sunken roof. [[Map](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&lat=-143.0156&lng=68.55965&zoom=8&code=mapA)] (04-14)
-- [ ] Exhaust Diallos' dialogue at Roundtable hold.
-- [ ] Join [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE]
-- [ ] Exhaust Diallos' dialogue in Volcano Manor's drawing room.
+- [x] Exhaust Diallos' dialogue at Roundtable hold. (04-14)
+- [x] Join [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE] (04-15)
+- [x] Exhaust Diallos' dialogue in Volcano Manor's drawing room. (04-15)
 - [ ] Finish Volcano Manor's questline, or defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy).
 - [ ] After progressing the [Jarburg](https://eldenring.wiki.fextralife.com/Jarburg) questline he will appear in one of the shacks, tending to [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
 - [ ] Revisiting Jarburg after sometime will have you find the town damaged; Diallos will be there. Exhaust Diallos' dialogue. Then, exhaust Jar-Bairn's dialogue.
