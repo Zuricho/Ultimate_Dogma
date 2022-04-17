@@ -16,15 +16,15 @@
 
 - [x] Exhaust Varre's dialogue at [Rose Church](https://eldenring.wiki.fextralife.com/Rose+Church). He'll give you [Festering Bloody Finger](https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger) (x5). Use them to perform 3 invasions (success/failure has no impact). (04-15)
 
-- [ ] Exhaust Varre's dialogue at The First Step Site of Grace.
+- [x] Exhaust Varre's dialogue at The First Step Site of Grace. (04-17)
 
-- [ ] Soak the Lord of Blood’s Favor in the blood of a maiden to turn it into the Bloodied Lord of Blood’s Favor. For this, do any one of the following, and interact with the corpse:
+- [x] Soak the Lord of Blood’s Favor in the blood of a maiden to turn it into the Bloodied Lord of Blood’s Favor. For this, do any one of the following, and interact with the corpse: (04-17)
   
-  - [ ] Find the dead maiden in the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition).
+  - [x] Find the dead maiden in the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition).
   
   - [ ] Kill [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
   
-- [ ] Give Varre the [Bloodied Lord of Blood’s Favor](https://eldenring.wiki.fextralife.com/Bloodied+Lord+of+Blood’s+Favor). He'll give you a resusable [Bloody Finger](https://eldenring.wiki.fextralife.com/Bloody+Finger), and the [Pureblood Knight's Medal](https://eldenring.wiki.fextralife.com/Pureblood+Knight's+Medal).
+- [x] Give Varre the [Bloodied Lord of Blood’s Favor](https://eldenring.wiki.fextralife.com/Bloodied+Lord+of+Blood’s+Favor). He'll give you a resusable [Bloody Finger](https://eldenring.wiki.fextralife.com/Bloody+Finger), and the [Pureblood Knight's Medal](https://eldenring.wiki.fextralife.com/Pureblood+Knight's+Medal). (04-17)
 
 - [ ] He'll invade 3 times in the blood swamp, kill him to get his armor set
 
@@ -37,8 +37,8 @@
 - [x] Free Boc from his tree form in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Can be found south of the Agheel Lake North grace. (04-11)
 - [x] Talk to Boc at the [Coastal Cave](https://eldenring.wiki.fextralife.com/Coastal+Cave). Defeat the **boss of the cave and return to him**. (04-11)
 - [x] Give Boc his sewing tools (04-11)
-- [ ] Boc will move to the Lake-Facing Cliffs Site of Grace, at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes)
-- [ ] Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle.
+- [x] Boc will move to the Lake-Facing Cliffs Site of Grace, at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes) (04-17)
+- [x] Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle. (04-17)
 - [ ] Boc will move to the Altus Highway Junction site of grace
 - [ ] Boc will move to the East Capital Rampart site of grace. 
 - [ ] Boc will voice his desire to be rebirthed by Rennala. Two choices to proceed:
@@ -86,8 +86,8 @@
 - [x] Giver her [Shabriri Grapes](https://eldenring.wiki.fextralife.com/Shabriri+Grape). Rewards you with the [As You Wish Gesture](https://eldenring.wiki.fextralife.com/Gestures).
 - [x] Find her in the western side of the [Purified Ruins](https://eldenring.wiki.fextralife.com/Purified+Ruins). She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape)
 - [x] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape). (04-15)
-- [ ] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape).
-- [ ] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
+- [x] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape). (04-17)
+- [x] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta). (04-17)
 - [ ] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina).
 
 **NPCs Affected By Quest**: [Melina](https://eldenring.wiki.fextralife.com/Melina)
@@ -99,7 +99,7 @@
 - [x] Return to him for your reward: [Erdsteel Dagger](https://eldenring.wiki.fextralife.com/Erdsteel+Dagger)
 - [x] Accept his Accord
 - [x] Exhaust his dialogue at Fort Haight.
-- [ ] Defeat Godrick and proceed with Nepheli Loux's questline. Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue. (The Stormhawk King can be found at the Chapel of Anticipation upon return)
+- [x] Defeat Godrick and proceed with Nepheli Loux's questline. Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue. (The Stormhawk King can be found at the Chapel of Anticipation upon return) (04-17)
 - [ ] Travel to Godrick's grace and rest at it. Kenneth and Nepheli can then be found inside the throne room.
 
 **Note:** [Morgott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before he will appear in throne room.
@@ -107,11 +107,11 @@
  ## [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
 
 - [x] When you first get access to Torrent, going to the [Church of Elleh](https://eldenring.wiki.fextralife.com/Church+of+Elleh) at night to meet [Renna](https://eldenring.wiki.fextralife.com/Renna)/[Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
-- [ ] Meet Ranni in [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise)
-- [ ] Have her agree to let you serve her. This may require the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
-- [ ] Talk to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), and [Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) before returning to talk to Ranni
-- [ ] Find [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) in the [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River) area. [Link [here](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&lat=-184.97187&lng=136.09082&zoom=8&code=mapB)]
-- [ ] Talk to Selvius to gain [Seluvis's Introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction), and take the item to [Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins)
+- [x] Meet Ranni in [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise) (04-17)
+- [x] Have her agree to let you serve her. This may require the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) (04-17)
+- [x] Talk to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), and [Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) before returning to talk to Ranni (04-17)
+- [x] Find [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) in the [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River) area. [Link [here](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&lat=-184.97187&lng=136.09082&zoom=8&code=mapB)] (04-17)
+- [x] Talk to Selvius to gain [Seluvis's Introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction), and take the item to [Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) (04-17)
 - [ ] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), this will lead to a falling star crashing into a field south of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood)
 - [ ] Drop down into the resulting crater and navigate to [Nokron](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City)
 - [ ] Reach [Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground) and collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade)
@@ -151,7 +151,7 @@
 - [x] Head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to fight [Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil). [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) will make an appearance as a summon and after the fight is over, talk to him to receive [Somber Smithing Stone (2)](https://eldenring.wiki.fextralife.com/Somber+Smithing+Stone+(2)).
 - [x] Exhaust his dialog. He mentions a blacksmith ([Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)) 
 - [x] Meet Iji and mention "Blaidd sent them" to unlock [Carian Filigreed Crest](https://eldenring.wiki.fextralife.com/Carian+Filigreed+Crest) to purchase.
-- [ ] [Renna](https://eldenring.wiki.fextralife.com/Renna) will request you to meet him at [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River). Enter the Siofra River Well and find Blaidd, exhaust his dialog.
+- [x] [Renna](https://eldenring.wiki.fextralife.com/Renna) will request you to meet him at [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River). Enter the Siofra River Well and find Blaidd, exhaust his dialog. (04-17)
 - [ ] He explains that after opening the way to Nokron he has been given another task.
 - [ ] Return to where you first met gim to find a message. Speak to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to free [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). Go back to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and talk to him.
 - [ ] After completing Ranni's questline [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) is at [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise), enraged and hostile. Kill him for his armor and greatsword.
@@ -161,7 +161,7 @@
 ## [Fia](https://eldenring.wiki.fextralife.com/Fia)
 
 - [x] Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia) after defeating [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted). She only talks only while holding you, so you have no choice but to accept her hug in order to start her quest.
-- [ ] Obtain the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) from the [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) and return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) to give it to [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier). Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia), reload the area and talk to Rogier again.
+- [x] Obtain the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) from the [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) and return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) to give it to [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier). Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia), reload the area and talk to Rogier again.
 - [x] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
 - [x] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). (04-11)
 - [x] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue. (04-11)
@@ -227,8 +227,8 @@
   Note: you don't need to summon her for the fight for this to progress.
 - [x] After defeating Godrick she will move to the library in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). 
 - [x] Exhaust her dialogue for an Arsenal Charm.
-- [ ] Give her the [Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King) remains from the [Chapel of Anticipation](https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation).
-- [ ] Follow Kenneth Haight's questline. He can be found at the top of Fort Haight, lamenting the lack of a Lord for Limgrave. Exhaust dialogue.
+- [x] Give her the [Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King) remains from the [Chapel of Anticipation](https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation). (04-17)
+- [x] Follow Kenneth Haight's questline. He can be found at the top of Fort Haight, lamenting the lack of a Lord for Limgrave. Exhaust dialogue. (04-17)
 - [ ] Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room.
 
 **Note:** [Margott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before they will appear in the throne room.
@@ -237,11 +237,11 @@
 
 ## [Seluvis](https://eldenring.wiki.fextralife.com/Seluvis)
 
-- [ ] Speak to [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) and receive his quest.
-- [ ] Find [Nepheli ](https://eldenring.wiki.fextralife.com/Nepheli+Loux)at [Village of the Albinaurics](https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics), exhaust her dialogue and kill [Omenkiller](https://eldenring.wiki.fextralife.com/+Omenkiller) nearby.
-- [ ] Go to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and find Nepheli downstairs and exhaust her dialogue.
-- [ ] Go to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) and ask him about Nepheli, and tell him about the potion.
-- [ ] Give potion to Ofnir, Nepheli or [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) to and complete the quest at Seluvis for his reward.
+- [x] Speak to [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) and receive his quest. (04-17)
+- [x] Find [Nepheli ](https://eldenring.wiki.fextralife.com/Nepheli+Loux)at [Village of the Albinaurics](https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics), exhaust her dialogue and kill [Omenkiller](https://eldenring.wiki.fextralife.com/+Omenkiller) nearby. (04-17)
+- [x] Go to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and find Nepheli downstairs and exhaust her dialogue. (04-17)
+- [x] Go to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) and ask him about Nepheli, and tell him about the potion. (04-17)
+- [x] Give potion to Ofnir, Nepheli or [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) to and complete the quest at Seluvis for his reward. (04-17)
   Note that giving the potion to Nepheli or Dung Eater will end their respective questlines.
 
 **NPCs Affected By Quest**: [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux) Must have spoken to Nepheli at least once to receive it.
@@ -371,10 +371,10 @@ Reach Leyndell to unlock
 ## [Latenna](https://eldenring.wiki.fextralife.com/Latenna)
 
 - [x] Latenna can be found at [Slumbering Wolf's Shack](https://eldenring.wiki.fextralife.com/Slumbering+Wolfs+Shack) (04-15)
-- [ ] Latenna's questline revolves around a separate NPC, [Albus](https://eldenring.wiki.fextralife.com/Albus)
-- [ ] Speak to Albus for [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)).
-- [ ] Return Medallion to Latenna. 
-- [ ] Promise to take Latenna to Haligtree. She joins and becomes Spirit Ash summon, [Latenna the Albinauric](https://eldenring.wiki.fextralife.com/Latenna+The+Albinauric) She will also hint at the location of the [Haligtree Secret Medallion (Left)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)).
+- [x] Latenna's questline revolves around a separate NPC, [Albus](https://eldenring.wiki.fextralife.com/Albus) (04-17)
+- [x] Speak to Albus for [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)). (04-17)
+- [x] Return Medallion to Latenna.  (04-17)
+- [x] Promise to take Latenna to Haligtree. She joins and becomes Spirit Ash summon, [Latenna the Albinauric](https://eldenring.wiki.fextralife.com/Latenna+The+Albinauric) She will also hint at the location of the [Haligtree Secret Medallion (Left)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)). (04-17)
 - [ ] Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric, rewarding [Somber Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone).
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Advancing too far and not speaking to Latenna (dies, drops Spirit Ashes)
@@ -382,20 +382,20 @@ Reach Leyndell to unlock
 ## [Ensha](https://eldenring.wiki.fextralife.com/Ensha)
 
 - [x] Upon first interaction, players obtain the What Do You Want? Gesture from Ensha of the Royal Remains.
-- [ ] After obtaining the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)), Ensha will invade the player the next time they teleport to Roundtable Hold. Defeating Ensha rewards the [Royal Remains Set](https://eldenring.wiki.fextralife.com/Royal+Remains+Set) from where he used to stand.
+- [x] After obtaining the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)), Ensha will invade the player the next time they teleport to Roundtable Hold. Defeating Ensha rewards the [Royal Remains Set](https://eldenring.wiki.fextralife.com/Royal+Remains+Set) from where he used to stand. (04-17)
 
 ## [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
 
 - [x] First met in [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle) by the altar of the Chapel [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1103&lat=-177.660938&lng=85.012938&zoom=8&code=mapA)] 
 - [x] After defeating Godrick moves to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). NOTE: Rogier **will die** if you speak with [Ranni](https://eldenring.wiki.fextralife.com/Ranni) before finishing his quest!
-- [ ] At Stormveil Castle, examine Rogier's bloodstain near the rotting face, in the area where [Root Monster](https://eldenring.wiki.fextralife.com/Root+Monster) spawns.
-- [ ] Ask Rogier about the face.
-- [ ] Talk to Fia and allow her to hold you. Exhaust lines "Talk in secret", "Did you know?" and "About the Black Knifeprint".
-- [ ] Defeat [Black Knight Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) miniboss in [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) by riding the trap to the upper level [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&lat=-117.148437&lng=80.909102&zoom=8&code=mapA)] for the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
-- [ ] Return the Knifeprint to Rogier. Reload the area and he will ask you to look for [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
-- [ ] Upon talking to Ranni she tells the player to leave. Return to Rogier who suggests becoming Ranni's vassal.
-- [ ] [Ranni](https://eldenring.wiki.fextralife.com/Ranni) allows player to become her vassal. Returing to Rogier results in him falling into a deep slumber.
-- [ ] Soon after Rogier will die, leaving behind his set and a letter.
+- [x] At Stormveil Castle, examine Rogier's bloodstain near the rotting face, in the area where [Root Monster](https://eldenring.wiki.fextralife.com/Root+Monster) spawns.
+- [x] Ask Rogier about the face.
+- [x] Talk to Fia and allow her to hold you. Exhaust lines "Talk in secret", "Did you know?" and "About the Black Knifeprint".
+- [x] Defeat [Black Knight Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) miniboss in [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) by riding the trap to the upper level [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&lat=-117.148437&lng=80.909102&zoom=8&code=mapA)] for the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
+- [x] Return the Knifeprint to Rogier. Reload the area and he will ask you to look for [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
+- [x] Upon talking to Ranni she tells the player to leave. Return to Rogier who suggests becoming Ranni's vassal.
+- [x] [Ranni](https://eldenring.wiki.fextralife.com/Ranni) allows player to become her vassal. Returing to Rogier results in him falling into a deep slumber.
+- [x] Soon after Rogier will die, leaving behind his set and a letter. (04-17)
 
 ## [Diallos](https://eldenring.wiki.fextralife.com/Diallos)
 
