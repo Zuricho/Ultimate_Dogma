@@ -93,7 +93,7 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 - [ ] [Putrid Avatar](https://eldenring.wiki.fextralife.com/Putrid+Avatar)
 - [ ] [Putrid Tree Spirit](https://eldenring.wiki.fextralife.com/Putrid+Tree+Spirit)
 - [ ] [Putrid Crystalian Trio](https://eldenring.wiki.fextralife.com/Crystalians)
-- [ ] [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn)
+- [x] [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) (04-18)
 
 ## BOSSES IN [MT. GELMIR](https://eldenring.wiki.fextralife.com/Mt+Gelmir)
 
@@ -160,7 +160,7 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 
 ## BOSSES IN [NOKRON, ETERNAL CITY](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City)
 
-- [ ] [Mimic Tear](https://eldenring.wiki.fextralife.com/Mimic+Tear)
+- [ ] [Mimic Tear](https://eldenring.wiki.fextralife.com/Mimic+Tear) (04-18)
 - [ ] [Regal Ancestor Spirit](https://eldenring.wiki.fextralife.com/Regal+Ancestor+Spirit)
 - [ ] [Valiant Gargoyle](https://eldenring.wiki.fextralife.com/Valiant+Gargoyle) & [Valiant Gargoyle (Twinblade)](https://eldenring.wiki.fextralife.com/Valiant+Gargoyle+(Twinblade))
 

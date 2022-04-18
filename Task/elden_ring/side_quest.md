@@ -112,8 +112,8 @@
 - [x] Talk to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), and [Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) before returning to talk to Ranni (04-17)
 - [x] Find [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) in the [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River) area. [Link [here](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&lat=-184.97187&lng=136.09082&zoom=8&code=mapB)] (04-17)
 - [x] Talk to Selvius to gain [Seluvis's Introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction), and take the item to [Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) (04-17)
-- [ ] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), this will lead to a falling star crashing into a field south of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood)
-- [ ] Drop down into the resulting crater and navigate to [Nokron](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City)
+- [x] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), this will lead to a falling star crashing into a field south of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood) (04-18)
+- [x] Drop down into the resulting crater and navigate to [Nokron](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City) (04-18)
 - [ ] Reach [Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground) and collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade)
 - [ ] Return the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) to Ranni and collect the [Carian Inverted Statue](https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue)
 - [ ] Go to the [Carian Study Hall](https://eldenring.wiki.fextralife.com/Carian+Study+Hall), and use the statue to reach the top of the [Divine Tower of Liurnia](https://eldenring.wiki.fextralife.com/Divine+Tower+of+Liurnia)
@@ -134,9 +134,9 @@
 ## [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander)
 
 - [x] Alexander can be found in Northern [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=772&lat=-177.171875&lng=106.519955&zoom=8)]
-- [ ] After that he can be found at [Gael Tunnel](https://eldenring.wiki.fextralife.com/Gael+Tunnel)
-- [ ] He can be found at Redmane Castle, preparing to enter the festival, alongside [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd).
-- [ ] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace.
+- [x] After that he can be found at [Gael Tunnel](https://eldenring.wiki.fextralife.com/Gael+Tunnel) (04-18)
+- [x] He can be found at Redmane Castle, preparing to enter the festival, alongside [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). (04-18)
+- [x] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace. (04-18)
 - [ ] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him.
 - [ ] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava. 
 - [ ] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional)
@@ -152,7 +152,7 @@
 - [x] Exhaust his dialog. He mentions a blacksmith ([Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)) 
 - [x] Meet Iji and mention "Blaidd sent them" to unlock [Carian Filigreed Crest](https://eldenring.wiki.fextralife.com/Carian+Filigreed+Crest) to purchase.
 - [x] [Renna](https://eldenring.wiki.fextralife.com/Renna) will request you to meet him at [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River). Enter the Siofra River Well and find Blaidd, exhaust his dialog. (04-17)
-- [ ] He explains that after opening the way to Nokron he has been given another task.
+- [x] He explains that after opening the way to Nokron he has been given another task. (04-18)
 - [ ] Return to where you first met gim to find a message. Speak to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to free [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). Go back to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and talk to him.
 - [ ] After completing Ranni's questline [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) is at [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise), enraged and hostile. Kill him for his armor and greatsword.
 
@@ -207,10 +207,10 @@
 
 - [x] Exhaust his dialogue at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
 - [x] After reaching the Altus Plateu or defeating [Mad Tongue Alberich](https://eldenring.wiki.fextralife.com/Mad+Tongue+Alberich) and collecting the [Cipher Pata](https://eldenring.wiki.fextralife.com/Cipher+Pata), he will tell you he is going on a journey to find the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
-- [ ] After reloading, he appears just north of the Altus Highway Junction site of grace, exhaust his dialogue. 
-- [ ] On the north side of Altus Plateau there is a broken bridge, go here and interact with [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
-- [ ] Return to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) and exhaust his dialogue telling him you found the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask).
-- [ ] Reload the area and Corhyn will be next to the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) on the bridge, exhaust dialogue. 
+- [x] After reloading, he appears just north of the Altus Highway Junction site of grace, exhaust his dialogue.  (04-18)
+- [x] On the north side of Altus Plateau there is a broken bridge, go here and interact with [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). (04-18)
+- [x] Return to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) and exhaust his dialogue telling him you found the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). (04-18)
+- [x] Reload the area and Corhyn will be next to the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) on the bridge, exhaust dialogue.  (04-18)
 - [ ] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue.
 - [ ] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn).
 - [ ] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue.
@@ -259,8 +259,8 @@
 
 ## [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl)
 
-- [ ] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete two assassination quests for them.
-- [ ] Speak to Bernahl to recieve the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
+- [x] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete two assassination quests for them. (04-18)
+- [x] Speak to Bernahl to recieve the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl). (04-18)
 - [ ] Go to [Leyndell](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital) and find the red invasion sign. Fight alongside Bernahl for [Raging Wolf Set](https://eldenring.wiki.fextralife.com/Raging+Wolf+Set).
 - [ ] Report back to him at [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) for [Gelmir's Fury](https://eldenring.wiki.fextralife.com/Gelmir's+Fury) [Sorcery](https://eldenring.wiki.fextralife.com/Sorceries). 
   Note: the above steps must be completed before defeating Rykard.
