@@ -45,27 +45,6 @@
   - [ ] Give him a [Larval Tear](https://eldenring.wiki.fextralife.com/Larval+Tear). Upon resting, Boc will appear next to Rennala. Resting again, will make him die.
   - [ ] Perform the ["You're Beautiful" Prattling Pate](https://eldenring.wiki.fextralife.com/Prattling+Pate+You're+Beautiful) in front of him, then discuss it (unknown if quest continues after this).
 
-## [Roderika](https://eldenring.wiki.fextralife.com/Roderika)
-
-- [x] Exhaust her dialogue at [Stormhill Shack](https://eldenring.wiki.fextralife.com/Stormhill+Shack) in Limgrave
-- [x] Obtain [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) from [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle)
-- [x] Give her the memento
-- [x] Talk to her and Smithing Master Hewg several times in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). He will take her as his apprentice
-- [x] Return to where you found the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) to find the [Crimson Hood](https://eldenring.wiki.fextralife.com/Crimson+Hood) (04-11)
-- [x] After a major story event involving the Erdtree, she moves to the fireplace in the round table. She asks you to speak to smithing Master Hewg and try to convince him to leave the roundtable.
-
- **NPCs Affected By Quest**: [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg)
-
-## [D Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Hunter+of+the+Dead)
-
-- [x] Talk to him in [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill), past the Saintsbridge. He will talk about the enemies in Summonwater Village Ruins. Defeat the enemies and go back to D to continue the quest. He will then give the location for the Sending gate in the to the Bestial Sanctum and meet Gurranq.
-- [x] Defeat a [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) boss
-- [x] Obtain the map to [Bestial Sanctum](https://eldenring.wiki.fextralife.com/Bestial+Sanctum)
-- [x] He will appear in the Roundtable Hold, sitting in a chair. He will sell some spells to you.
-- [x] Give him the Weathered Dagger you get from Fia's questline. Reloading the area will open the door on the right side of the Hold. D will be dead. (04-11)
-
-**NPCs Affected By Quest**: [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman), [Fia](https://eldenring.wiki.fextralife.com/Fia)
-
 ## [Gurranq Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman)
 
 - [x] Talk to him at Bestial Sanctum after doing D, Hunter of the Dead's Quest. (04-12)
@@ -235,17 +214,6 @@
 
 - [ ] Exhaust dialogue to receive reward.
 
-## [Seluvis](https://eldenring.wiki.fextralife.com/Seluvis)
-
-- [x] Speak to [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) and receive his quest. (04-17)
-- [x] Find [Nepheli ](https://eldenring.wiki.fextralife.com/Nepheli+Loux)at [Village of the Albinaurics](https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics), exhaust her dialogue and kill [Omenkiller](https://eldenring.wiki.fextralife.com/+Omenkiller) nearby. (04-17)
-- [x] Go to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and find Nepheli downstairs and exhaust her dialogue. (04-17)
-- [x] Go to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) and ask him about Nepheli, and tell him about the potion. (04-17)
-- [x] Give potion to Ofnir, Nepheli or [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) to and complete the quest at Seluvis for his reward. (04-17)
-  Note that giving the potion to Nepheli or Dung Eater will end their respective questlines.
-
-**NPCs Affected By Quest**: [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux) Must have spoken to Nepheli at least once to receive it.
-
 ## [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)
 
 - [x] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
@@ -266,20 +234,6 @@
   Note: the above steps must be completed before defeating Rykard.
 - [ ] Defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) then exhaust Bernahl's dialouge.
 - [ ] Go to [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to find him as invader. Drops [Beast Champion Set](https://eldenring.wiki.fextralife.com/Beast+Champion+Set), [Devourer's Scepter](https://eldenring.wiki.fextralife.com/Devourer's+Scepter) and [Blasphemous Claw](https://eldenring.wiki.fextralife.com/Blasphemous+Claw).
-
-**Quest Lock-Out Conditions (excl. Death of NPC)**: Defeating [Rykard, Lord of Blasphemy](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
-
-## [Patches](https://eldenring.wiki.fextralife.com/Patches)
-
-Patches is DEAD
-
-- [x] Find and fight Patches at [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). When he surrenders, forgive him. He will open up shop there.
-- [x] After finishing all dialogue, opening some other chest nearby and transport you to [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood). As you travel back to Murkwater Cave and talk to [Patches](https://eldenring.wiki.fextralife.com/Patches). If you Attack Patches you can use Beg for Mercy gesture to end the fight.
-- [x] You can find [Patches](https://eldenring.wiki.fextralife.com/Patches) a second time on the Scenic Isle, near the Laskyar Ruins Site of grace, in [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes).
-- [x] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete the first two assassination quests for them. Return to the Manor and speak to everyone there to receive individual requests.
-- [x] Reload and speak to [Patches](https://eldenring.wiki.fextralife.com/Patches) to receive the [Letter to Patches](https://eldenring.wiki.fextralife.com/Letter+to+Patches).
-- [x] Go to [Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Ruin-Strewn+Precipice) and find the red invasion sign. Defeat the target to receive the [Bull-Goat Armor Set](https://eldenring.wiki.fextralife.com/Bull-Goat+Armor). Reload the area and he'll reward you with the [Magma Whip Candlestick](https://eldenring.wiki.fextralife.com/Magma+Whip+Candlestick).
-- [x] [Patches](https://eldenring.wiki.fextralife.com/Patches) appears in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle). He gives you the [Dancer's Castanets](https://eldenring.wiki.fextralife.com/Dancer's+Castanets). Can be given to [Tanith](https://eldenring.wiki.fextralife.com/Tanith).
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Defeating [Rykard, Lord of Blasphemy](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
 
@@ -378,24 +332,6 @@ Reach Leyndell to unlock
 - [ ] Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric, rewarding [Somber Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone).
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Advancing too far and not speaking to Latenna (dies, drops Spirit Ashes)
-
-## [Ensha](https://eldenring.wiki.fextralife.com/Ensha)
-
-- [x] Upon first interaction, players obtain the What Do You Want? Gesture from Ensha of the Royal Remains.
-- [x] After obtaining the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)), Ensha will invade the player the next time they teleport to Roundtable Hold. Defeating Ensha rewards the [Royal Remains Set](https://eldenring.wiki.fextralife.com/Royal+Remains+Set) from where he used to stand. (04-17)
-
-## [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
-
-- [x] First met in [Stormveil Castle](https://eldenring.wiki.fextralife.com/Stormveil+Castle) by the altar of the Chapel [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1103&lat=-177.660938&lng=85.012938&zoom=8&code=mapA)] 
-- [x] After defeating Godrick moves to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). NOTE: Rogier **will die** if you speak with [Ranni](https://eldenring.wiki.fextralife.com/Ranni) before finishing his quest!
-- [x] At Stormveil Castle, examine Rogier's bloodstain near the rotting face, in the area where [Root Monster](https://eldenring.wiki.fextralife.com/Root+Monster) spawns.
-- [x] Ask Rogier about the face.
-- [x] Talk to Fia and allow her to hold you. Exhaust lines "Talk in secret", "Did you know?" and "About the Black Knifeprint".
-- [x] Defeat [Black Knight Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) miniboss in [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) by riding the trap to the upper level [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&lat=-117.148437&lng=80.909102&zoom=8&code=mapA)] for the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint)
-- [x] Return the Knifeprint to Rogier. Reload the area and he will ask you to look for [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
-- [x] Upon talking to Ranni she tells the player to leave. Return to Rogier who suggests becoming Ranni's vassal.
-- [x] [Ranni](https://eldenring.wiki.fextralife.com/Ranni) allows player to become her vassal. Returing to Rogier results in him falling into a deep slumber.
-- [x] Soon after Rogier will die, leaving behind his set and a letter. (04-17)
 
 ## [Diallos](https://eldenring.wiki.fextralife.com/Diallos)
 
