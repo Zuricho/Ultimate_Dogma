@@ -26,9 +26,9 @@
   
 - [x] Give Varre the [Bloodied Lord of Blood’s Favor](https://eldenring.wiki.fextralife.com/Bloodied+Lord+of+Blood’s+Favor). He'll give you a resusable [Bloody Finger](https://eldenring.wiki.fextralife.com/Bloody+Finger), and the [Pureblood Knight's Medal](https://eldenring.wiki.fextralife.com/Pureblood+Knight's+Medal). (04-17)
 
-- [ ] He'll invade 3 times in the blood swamp, kill him to get his armor set
+- [x] He'll invade 3 times in the blood swamp, kill him to get his armor set (04-30)
 
-- [ ] Use the red sign near the Mausoleum Dynasty Midpoint Site of Grace to duel him.
+- [x] Use the red sign near the Mausoleum Dynasty Midpoint Site of Grace to duel him. (04-30)
 
  **NPCs Affected By Quest**: [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta)
 
@@ -39,9 +39,9 @@
 - [x] Give Boc his sewing tools (04-11)
 - [x] Boc will move to the Lake-Facing Cliffs Site of Grace, at [Liurnia of the Lakes](https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes) (04-17)
 - [x] Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle. (04-17)
-- [ ] Boc will move to the Altus Highway Junction site of grace
-- [ ] Boc will move to the East Capital Rampart site of grace. 
-- [ ] Boc will voice his desire to be rebirthed by Rennala. Two choices to proceed:
+- [x] Boc will move to the Altus Highway Junction site of grace (04-26)
+- [x] Boc will move to the East Capital Rampart site of grace.  (04-26)
+- [x] Boc will voice his desire to be rebirthed by Rennala. Two choices to proceed: (04-30)
   - [ ] Give him a [Larval Tear](https://eldenring.wiki.fextralife.com/Larval+Tear). Upon resting, Boc will appear next to Rennala. Resting again, will make him die.
   - [ ] Perform the ["You're Beautiful" Prattling Pate](https://eldenring.wiki.fextralife.com/Prattling+Pate+You're+Beautiful) in front of him, then discuss it (unknown if quest continues after this).
 
@@ -93,19 +93,19 @@
 - [x] Talk to Selvius to gain [Seluvis's Introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction), and take the item to [Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) (04-17)
 - [x] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), this will lead to a falling star crashing into a field south of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood) (04-18)
 - [x] Drop down into the resulting crater and navigate to [Nokron](https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City) (04-18)
-- [ ] Reach [Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground) and collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade)
-- [ ] Return the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) to Ranni and collect the [Carian Inverted Statue](https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue)
-- [ ] Go to the [Carian Study Hall](https://eldenring.wiki.fextralife.com/Carian+Study+Hall), and use the statue to reach the top of the [Divine Tower of Liurnia](https://eldenring.wiki.fextralife.com/Divine+Tower+of+Liurnia)
-- [ ] Acquire the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) from the body
-- [ ] At [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) collect [Miniature Ranni](https://eldenring.wiki.fextralife.com/Miniature+Ranni)
-- [ ] Rest at the [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) grace site and speak with Ranni, she'll task you with defeating the [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow)
-- [ ] Travel along the Ainsel River until you reach [Nokstella](https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City). 
-- [ ] Defeat [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow) for [Discarded Palace Key](https://eldenring.wiki.fextralife.com/Discarded+Palace+Key)
-- [ ] Unlock chest in [Raya Lucaria Grand Library](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Grand+Library) next to [Rennala](https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon) for Dark Moon Ring
-- [ ] With the ring, travel back to the [Lake of Rot](https://eldenring.wiki.fextralife.com/Lake+of+Rot) in the Ainsel River area, continuing to the [Grand Cloister](https://eldenring.wiki.fextralife.com/Grand+Cloister)
-- [ ] Using the coffin in the Grand Cloister, access and defeat [Astel](https://eldenring.wiki.fextralife.com/Astel,+Naturalborn+of+the+Void)
-- [ ] Continue to the [Moonlight Altar](https://eldenring.wiki.fextralife.com/Moonlight+Altar), past [Glintstone Dragon Adula](https://eldenring.wiki.fextralife.com/Glintstone+Dragon+Adula), and enter the [Cathedral of Manus Celes](https://eldenring.wiki.fextralife.com/Cathedral+of+Manus+Celes)
-- [ ] Use the Dark Moon Ring on the Miniature Ranni to revive Ranni for [Dark Moon Greatsword](https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword)
+- [x] Reach [Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground) and collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) (04-21)
+- [x] Return the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) to Ranni and collect the [Carian Inverted Statue](https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue) (04-21)
+- [x] Go to the [Carian Study Hall](https://eldenring.wiki.fextralife.com/Carian+Study+Hall), and use the statue to reach the top of the [Divine Tower of Liurnia](https://eldenring.wiki.fextralife.com/Divine+Tower+of+Liurnia) (04-21)
+- [x] Acquire the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) from the body (04-21)
+- [x] At [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) collect [Miniature Ranni](https://eldenring.wiki.fextralife.com/Miniature+Ranni) (04-21)
+- [x] Rest at the [Ainsel River Main](https://eldenring.wiki.fextralife.com/Ainsel+River+Main) grace site and speak with Ranni, she'll task you with defeating the [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow) (04-21)
+- [x] Travel along the Ainsel River until you reach [Nokstella](https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City).  (04-28)
+- [x] Defeat [Baleful Shadow](https://eldenring.wiki.fextralife.com/Baleful+Shadow) for [Discarded Palace Key](https://eldenring.wiki.fextralife.com/Discarded+Palace+Key) (04-28)
+- [x] Unlock chest in [Raya Lucaria Grand Library](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Grand+Library) next to [Rennala](https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon) for Dark Moon Ring (04-28)
+- [x] With the ring, travel back to the [Lake of Rot](https://eldenring.wiki.fextralife.com/Lake+of+Rot) in the Ainsel River area, continuing to the [Grand Cloister](https://eldenring.wiki.fextralife.com/Grand+Cloister) (04-28)
+- [x] Using the coffin in the Grand Cloister, access and defeat [Astel](https://eldenring.wiki.fextralife.com/Astel,+Naturalborn+of+the+Void) (04-28)
+- [x] Continue to the [Moonlight Altar](https://eldenring.wiki.fextralife.com/Moonlight+Altar), past [Glintstone Dragon Adula](https://eldenring.wiki.fextralife.com/Glintstone+Dragon+Adula), and enter the [Cathedral of Manus Celes](https://eldenring.wiki.fextralife.com/Cathedral+of+Manus+Celes) (04-28)
+- [x] Use the Dark Moon Ring on the Miniature Ranni to revive Ranni for [Dark Moon Greatsword](https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword) (04-28)
 - [ ] If you return to Ranni's Chamber, after achieving the Age of Stars ending, there is additional dialogue with Miniature Ranni.
 
 **NPCs Affected By Quest**: [War Counseler Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Selvius](https://eldenring.wiki.fextralife.com/Selvius), [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
@@ -116,26 +116,10 @@
 - [x] After that he can be found at [Gael Tunnel](https://eldenring.wiki.fextralife.com/Gael+Tunnel) (04-18)
 - [x] He can be found at Redmane Castle, preparing to enter the festival, alongside [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). (04-18)
 - [x] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace. (04-18)
-- [ ] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him.
+- [x] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him. (04-21)
 - [ ] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava. 
 - [ ] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional)
 - [ ] At [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula), Alexander can be found on a large flat span of ruins and challenges player. Drops [Shard of Alexander](https://eldenring.wiki.fextralife.com/Shard+of+Alexander) as well as Warrior Jar Shard
-
-## [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd)
-
-- [x] Once you enter Mistwood, you will hear a wolf howling.
-- [x] Return to [Merchant Kalé](https://eldenring.wiki.fextralife.com/Merchant+Kalé) and ask him about it. He will teach you the Finger Snap gesture
-- [x] Return to Mistwood and use this gesture after hearing the howl to summon [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd).
-- [x] Talk to him when you find him, and he will announce that he is looking for a man named "Darriwil"
-- [x] Head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to fight [Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil). [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) will make an appearance as a summon and after the fight is over, talk to him to receive [Somber Smithing Stone (2)](https://eldenring.wiki.fextralife.com/Somber+Smithing+Stone+(2)).
-- [x] Exhaust his dialog. He mentions a blacksmith ([Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)) 
-- [x] Meet Iji and mention "Blaidd sent them" to unlock [Carian Filigreed Crest](https://eldenring.wiki.fextralife.com/Carian+Filigreed+Crest) to purchase.
-- [x] [Renna](https://eldenring.wiki.fextralife.com/Renna) will request you to meet him at [Siofra River](https://eldenring.wiki.fextralife.com/Siofra+River). Enter the Siofra River Well and find Blaidd, exhaust his dialog. (04-17)
-- [x] He explains that after opening the way to Nokron he has been given another task. (04-18)
-- [ ] Return to where you first met gim to find a message. Speak to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and head to the [Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/Forlorn+Hound+Evergaol) to free [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). Go back to [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) and talk to him.
-- [ ] After completing Ranni's questline [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) is at [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise), enraged and hostile. Kill him for his armor and greatsword.
-
-**NPCs Affected By Quest**: [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji)，[Ranni](https://eldenring.wiki.fextralife.com/Renna)
 
 ## [Fia](https://eldenring.wiki.fextralife.com/Fia)
 
@@ -220,8 +204,8 @@
 - [x] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
 - [x] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). (04-11)
 - [x] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue. (04-14)
-- [ ] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item.
-- [ ] After this you can fight him at Zamor Ruins Grace to get his armor set.
+- [x] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item. (04-29)
+- [x] After this you can fight him at Zamor Ruins Grace to get his armor set. (04-29)
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Yura is slain during the initial encounter with Nerijus 
 
@@ -229,8 +213,8 @@
 
 - [x] Join the [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) and complete two assassination quests for them. (04-18)
 - [x] Speak to Bernahl to recieve the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl). (04-18)
-- [ ] Go to [Leyndell](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital) and find the red invasion sign. Fight alongside Bernahl for [Raging Wolf Set](https://eldenring.wiki.fextralife.com/Raging+Wolf+Set).
-- [ ] Report back to him at [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) for [Gelmir's Fury](https://eldenring.wiki.fextralife.com/Gelmir's+Fury) [Sorcery](https://eldenring.wiki.fextralife.com/Sorceries). 
+- [x] Go to [Leyndell](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital) and find the red invasion sign. Fight alongside Bernahl for [Raging Wolf Set](https://eldenring.wiki.fextralife.com/Raging+Wolf+Set). (04-30)
+- [x] Report back to him at [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) for [Gelmir's Fury](https://eldenring.wiki.fextralife.com/Gelmir's+Fury) [Sorcery](https://eldenring.wiki.fextralife.com/Sorceries). (04-30)
   Note: the above steps must be completed before defeating Rykard.
 - [ ] Defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) then exhaust Bernahl's dialouge.
 - [ ] Go to [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to find him as invader. Drops [Beast Champion Set](https://eldenring.wiki.fextralife.com/Beast+Champion+Set), [Devourer's Scepter](https://eldenring.wiki.fextralife.com/Devourer's+Scepter) and [Blasphemous Claw](https://eldenring.wiki.fextralife.com/Blasphemous+Claw).
@@ -247,11 +231,11 @@
   NOTE: If she does not appear in either of these locations, try teleporting to the Grand Lift and riding it to the top again to trigger her spawn.
 - [x] Complete first part of Tanith's quest and she will move to a new room. Speak to her during her snake form to progress the questline.
   NOTE: Proceeding [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) quests up to [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) makes this quest impossible to continue. (04-15)
-- [ ] Return to [Rya](https://eldenring.wiki.fextralife.com/Rya), where she hints of secret passage. Enter the illusory wall in the room right of hers and reach the grace in Prison Town Church. Return to [Zoraya](https://eldenring.wiki.fextralife.com/Zoraya) and tell her what you have seen to continue.
+- [x] Return to [Rya](https://eldenring.wiki.fextralife.com/Rya), where she hints of secret passage. Enter the illusory wall in the room right of hers and reach the grace in Prison Town Church. Return to [Zoraya](https://eldenring.wiki.fextralife.com/Zoraya) and tell her what you have seen to continue. (04-22)
   (OPTIONAL) Speak to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) and choose the "Zoraya's troubles" option.
-- [ ] Defeat [Godskin Noble](https://eldenring.wiki.fextralife.com/Godskin+Noble) in Temple of Eiglay to get the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
-- [ ] Give the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion) to Zoraya and she will disappear from the manor.
-  (OPTIONAL) Speaking to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) will have the new option "Zoraya's absence". She will give a [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness) to give to the upset Zoraya.
+- [x] Defeat [Godskin Noble](https://eldenring.wiki.fextralife.com/Godskin+Noble) in Temple of Eiglay to get the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion). (04-29)
+- [x] Give the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion) to Zoraya and she will disappear from the manor. (04-30)
+  (OPTIONAL) Speaking to Lady [Tanith](https://eldenring.wiki.fextralife.com/Tanith) will have the new option "Zoraya's absence". She will give a [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness) to give to the upset Zoraya. (04-30)
 - [ ] Zoraya has moved to the Legacy Dungeon's interior. If you have fully unlocked the area, you can reach it by taking the wooden elevator next to the Temple of Eiglay, getting off at a hidden doorway just below the lift's highest point, and heading straight through the rooms beyond until you jump across a lava floe.
   - [ ] if the elevator is not yet active, you can reach the lava floe (or unlock the elevator) by jumping off the balcony of the top floor of Temple of Eiglay.
   - [ ] you can also reach this room by taking the wooden elevator to the top, going straight ahead toward the man-serpent with the lava sword, and jumping out the windows on the left.
@@ -352,8 +336,8 @@ Reach Leyndell to unlock
 - [x] Exhaust dialogue when first encountered in [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), to get the [Drawing-Room Key](https://eldenring.wiki.fextralife.com/Drawing-Room+Key).
 - [x] Enter the room with Rya, get the [letter](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) and go talk to Tanith again where she will tell you to assassinate [Old Knight Istvan](https://eldenring.wiki.fextralife.com/Old+Knight+Istvan).
 - [x] Invade Istvan at [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill) and kill him, return to Tanith to get the [Magma Shot](https://eldenring.wiki.fextralife.com/Magma+Shot) sorcery.
-- [ ] Reload the area to find another Letter, this time to assassinate [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle) in [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau).
-- [ ] Return to Tanith, she will reward you with the [Serpentbone Blade](https://eldenring.wiki.fextralife.com/Serpentbone+Blade).
+- [x] Reload the area to find another Letter, this time to assassinate [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle) in [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau). (04-21)
+- [x] Return to Tanith, she will reward you with the [Serpentbone Blade](https://eldenring.wiki.fextralife.com/Serpentbone+Blade). (04-21)
 - [ ] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight.
 - [ ] After beating Rykard, return to Tanith and speak to her again.
 - [ ] Reload the area, she will now be in Rykard's boss area, feasting on his corpse.
