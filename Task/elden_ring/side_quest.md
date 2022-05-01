@@ -1,37 +1,5 @@
 # Side Quest of *ELDEN RING*
 
-## [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre)
-
-- [x] Exhaust Varre's dialogue at The First Step Site of Grace.
-
-- [x] Exhaust everyone's dialogue at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
-
-- [x] Exhaust Varre's dialogue at The First Step Site of Grace, again.
-
-- [x] Defeat [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted).
-
-- [x] Exhaust [Enia](https://eldenring.wiki.fextralife.com/Enia)'s dialogue at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
-
-- [x] Exhaust Varre's dialogue at The First Step Site of Grace.
-
-- [x] Exhaust Varre's dialogue at [Rose Church](https://eldenring.wiki.fextralife.com/Rose+Church). He'll give you [Festering Bloody Finger](https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger) (x5). Use them to perform 3 invasions (success/failure has no impact). (04-15)
-
-- [x] Exhaust Varre's dialogue at The First Step Site of Grace. (04-17)
-
-- [x] Soak the Lord of Blood’s Favor in the blood of a maiden to turn it into the Bloodied Lord of Blood’s Favor. For this, do any one of the following, and interact with the corpse: (04-17)
-  
-  - [x] Find the dead maiden in the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition).
-  
-  - [ ] Kill [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta).
-  
-- [x] Give Varre the [Bloodied Lord of Blood’s Favor](https://eldenring.wiki.fextralife.com/Bloodied+Lord+of+Blood’s+Favor). He'll give you a resusable [Bloody Finger](https://eldenring.wiki.fextralife.com/Bloody+Finger), and the [Pureblood Knight's Medal](https://eldenring.wiki.fextralife.com/Pureblood+Knight's+Medal). (04-17)
-
-- [x] He'll invade 3 times in the blood swamp, kill him to get his armor set (04-30)
-
-- [x] Use the red sign near the Mausoleum Dynasty Midpoint Site of Grace to duel him. (04-30)
-
- **NPCs Affected By Quest**: [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta)
-
 ## [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster)
 
 - [x] Free Boc from his tree form in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Can be found south of the Agheel Lake North grace. (04-11)
@@ -79,7 +47,7 @@
 - [x] Accept his Accord
 - [x] Exhaust his dialogue at Fort Haight.
 - [x] Defeat Godrick and proceed with Nepheli Loux's questline. Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue. (The Stormhawk King can be found at the Chapel of Anticipation upon return) (04-17)
-- [ ] Travel to Godrick's grace and rest at it. Kenneth and Nepheli can then be found inside the throne room.
+- [x] Travel to Godrick's grace and rest at it. Kenneth and Nepheli can then be found inside the throne room. (05-01)
 
 **Note:** [Morgott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before he will appear in throne room.
 
@@ -192,22 +160,11 @@
 - [x] Exhaust her dialogue for an Arsenal Charm.
 - [x] Give her the [Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King) remains from the [Chapel of Anticipation](https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation). (04-17)
 - [x] Follow Kenneth Haight's questline. He can be found at the top of Fort Haight, lamenting the lack of a Lord for Limgrave. Exhaust dialogue. (04-17)
-- [ ] Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room.
+- [x] Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room. (05-01)
 
 **Note:** [Margott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before they will appear in the throne room.
 
-- [ ] Exhaust dialogue to receive reward.
-
-## [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)
-
-- [x] Meet [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura), near the lake of Limgrave, under an overpass. He warns you about [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel).
-- [x] Once you defeat the [Flying Dragon Agheel](https://eldenring.wiki.fextralife.com/Flying+Dragon+Agheel), talk to him again.
-- [x] Approach [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave) to get invaded by [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus). After defeating the invade with Yura's help he can be found further north of [Murkwater Cave](https://eldenring.wiki.fextralife.com/Murkwater+Cave). (04-11)
-- [x] Find his Red Summon Sign on a bridge, north of the Main gate Grace in [Raya Lucaria](https://eldenring.wiki.fextralife.com/Raya+Lucaria). Interact with the Red Sign and help him defeat [Bloody Finger Ravenmount Assassin](https://eldenring.wiki.fextralife.com/Bloody+Finger+Ravenmount+Assassin). After the fight he will be standing near the Summon Sign, exhaust his dialogue. (04-14)
-- [x] Find him at [Second Church of Marika](https://eldenring.wiki.fextralife.com/Second+Church+of+Marika). Talk to him for [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) and a battle with [Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora). Winning will reward [Purifying Crystal Tear](https://eldenring.wiki.fextralife.com/Purifying+Crystal+Tear), [Eleonora's Poleblade](https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade) and one other undefined item. (04-29)
-- [x] After this you can fight him at Zamor Ruins Grace to get his armor set. (04-29)
-
-**Quest Lock-Out Conditions (excl. Death of NPC)**: Yura is slain during the initial encounter with Nerijus 
+- [x] Exhaust dialogue to receive reward. (05-01)
 
 ## [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl)
 
@@ -216,7 +173,7 @@
 - [x] Go to [Leyndell](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital) and find the red invasion sign. Fight alongside Bernahl for [Raging Wolf Set](https://eldenring.wiki.fextralife.com/Raging+Wolf+Set). (04-30)
 - [x] Report back to him at [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) for [Gelmir's Fury](https://eldenring.wiki.fextralife.com/Gelmir's+Fury) [Sorcery](https://eldenring.wiki.fextralife.com/Sorceries). (04-30)
   Note: the above steps must be completed before defeating Rykard.
-- [ ] Defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) then exhaust Bernahl's dialouge.
+- [x] Defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) then exhaust Bernahl's dialouge. (05-01)
 - [ ] Go to [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to find him as invader. Drops [Beast Champion Set](https://eldenring.wiki.fextralife.com/Beast+Champion+Set), [Devourer's Scepter](https://eldenring.wiki.fextralife.com/Devourer's+Scepter) and [Blasphemous Claw](https://eldenring.wiki.fextralife.com/Blasphemous+Claw).
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Defeating [Rykard, Lord of Blasphemy](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy)
@@ -251,7 +208,7 @@
 ## [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)
 
 - [x] You will find in the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold), after reaching [Leyndell, Royal Capital](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital).
-- [ ] Give him one [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). After he asks you to find his body in sewers of Leyndell and kill him. He gives you the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key).
+- [x] Give him one [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). After he asks you to find his body in sewers of Leyndell and kill him. He gives you the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key). (05-01)
 - [ ] Once you find him trapped in cell you can choose to kill him or free him.
 - [ ] If you free the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) a new message will appear in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) suggesting you meet him at the Outer Moat so he can kill you.
 - [ ] Meet him in proposed location. [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4605&lat=-93.653126&lng=115.069298&zoom=8&code=mapA)]
@@ -324,7 +281,7 @@ Reach Leyndell to unlock
 - [x] Exhaust Diallos' dialogue at Roundtable hold. (04-14)
 - [x] Join [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor), but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE] (04-15)
 - [x] Exhaust Diallos' dialogue in Volcano Manor's drawing room. (04-15)
-- [ ] Finish Volcano Manor's questline, or defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy).
+- [x] Finish Volcano Manor's questline, or defeat [Rykard](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy). (05-01)
 - [ ] After progressing the [Jarburg](https://eldenring.wiki.fextralife.com/Jarburg) questline he will appear in one of the shacks, tending to [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
 - [ ] Revisiting Jarburg after sometime will have you find the town damaged; Diallos will be there. Exhaust Diallos' dialogue. Then, exhaust Jar-Bairn's dialogue.
 - [ ] Rest at a Site of Grace.
@@ -338,8 +295,8 @@ Reach Leyndell to unlock
 - [x] Invade Istvan at [Stormhill](https://eldenring.wiki.fextralife.com/Stormhill) and kill him, return to Tanith to get the [Magma Shot](https://eldenring.wiki.fextralife.com/Magma+Shot) sorcery.
 - [x] Reload the area to find another Letter, this time to assassinate [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle) in [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau). (04-21)
 - [x] Return to Tanith, she will reward you with the [Serpentbone Blade](https://eldenring.wiki.fextralife.com/Serpentbone+Blade). (04-21)
-- [ ] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight.
-- [ ] After beating Rykard, return to Tanith and speak to her again.
+- [x] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight. (05-01)
+- [x] After beating Rykard, return to Tanith and speak to her again. (05-01)
 - [ ] Reload the area, she will now be in Rykard's boss area, feasting on his corpse.
 - [ ] Killing Tanith rewards you with the [Consort's Set](https://eldenring.wiki.fextralife.com/Consort's+Set).
 - [ ] After killing her, you will be invaded by her bodyguard, who drops the [Aspect of the Crucible: Breath](https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible%3A+Breath) incantation.

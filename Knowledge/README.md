@@ -40,6 +40,8 @@
 
 [Data Visualization](data_visualization.md) `#html #javascript #d3js`
 
+[Deep Learning Notes](deep_learning.md) `#deeplearning`
+
 [Deep Learning Book Notes](deep_learning_book.md) `#deeplearning`
 
 [HPC Tips](hpc_tips.md) `#hpc`
