@@ -35,21 +35,9 @@
 - [x] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape). (04-15)
 - [x] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape). (04-17)
 - [x] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta). (04-17)
-- [ ] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina).
+- [x] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina). (05-02)
 
 **NPCs Affected By Quest**: [Melina](https://eldenring.wiki.fextralife.com/Melina)
-
-## [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight)
-
-- [x] Meet him in the northern area of [Mistwood](https://eldenring.wiki.fextralife.com/Mistwood) and exhaust his dialogue
-- [x] Liberate [Fort Haight](https://eldenring.wiki.fextralife.com/Fort+Haight)
-- [x] Return to him for your reward: [Erdsteel Dagger](https://eldenring.wiki.fextralife.com/Erdsteel+Dagger)
-- [x] Accept his Accord
-- [x] Exhaust his dialogue at Fort Haight.
-- [x] Defeat Godrick and proceed with Nepheli Loux's questline. Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue. (The Stormhawk King can be found at the Chapel of Anticipation upon return) (04-17)
-- [x] Travel to Godrick's grace and rest at it. Kenneth and Nepheli can then be found inside the throne room. (05-01)
-
-**Note:** [Morgott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before he will appear in throne room.
 
  ## [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
 
@@ -96,17 +84,17 @@
 - [x] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
 - [x] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). (04-11)
 - [x] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue. (04-11)
-- [ ] Head to [Deeproot Depths](https://eldenring.wiki.fextralife.com/Deeproot+Depths) and go to the Prince of Death's Throne Grace and talk to her. When she asks if you came to kill her, ask for an embrace.
-- [ ] Give her the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) which you can get from [Ranni's Questline.](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
-- [ ] Exhaust her dialog and reload the area. She allows you to enter a dream and fight [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax).
-- [ ] Killing [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax) and returning will allow you to loot the Mending Rune of The Death-Prince where she lies along with [Fia's Hood](https://eldenring.wiki.fextralife.com/Fia's+Hood) and [Fia's Robe](https://eldenring.wiki.fextralife.com/Fia's+Robe).
+- [x] Head to [Deeproot Depths](https://eldenring.wiki.fextralife.com/Deeproot+Depths) and go to the Prince of Death's Throne Grace and talk to her. When she asks if you came to kill her, ask for an embrace. (05-02)
+- [x] Give her the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) which you can get from [Ranni's Questline.](https://eldenring.wiki.fextralife.com/Ranni+the+Witch) (05-02)
+- [x] Exhaust her dialog and reload the area. She allows you to enter a dream and fight [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax). (05-02)
+- [x] Killing [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax) and returning will allow you to loot the Mending Rune of The Death-Prince where she lies along with [Fia's Hood](https://eldenring.wiki.fextralife.com/Fia's+Hood) and [Fia's Robe](https://eldenring.wiki.fextralife.com/Fia's+Robe). (05-02)
 
 **NPCs Affected By Quest**: [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead)
 
 ## [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen)
 
 - [x] Find her at [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Accept to study under her teaching, exhaust all dialogues.
-- [ ] Return to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen). She tasks you to find another Sorcerer and gives you a key for an arcane ward.
+- [x] Return to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen). She tasks you to find another Sorcerer and gives you a key for an arcane ward.
 - [ ] Go to [Sellia Hideaway](https://eldenring.wiki.fextralife.com/Sellia+Hideaway) and open the Warded door in the second pit. Interact with the Sorcerer inside.
 - [ ] After defeating [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) return to her, exhaust dialog. 
 - [ ] Go to the [Redmane Castle](https://eldenring.wiki.fextralife.com/Redmane+Castle) throne room and exhaust dialogue with [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren), if you haven't already.
@@ -142,29 +130,15 @@
 - [x] On the north side of Altus Plateau there is a broken bridge, go here and interact with [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). (04-18)
 - [x] Return to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) and exhaust his dialogue telling him you found the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). (04-18)
 - [x] Reload the area and Corhyn will be next to the [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) on the bridge, exhaust dialogue.  (04-18)
-- [ ] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue.
-- [ ] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn).
-- [ ] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue.
+- [x] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue. (05-02)
+- [x] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn). (05-02)
+- [x] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue. (05-02)
 - [ ] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace. 
 - [ ] Continuing south, below the elevator, there's a new path that leads to a dead [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). His corpse drops the [Mending Rune of Perfect Order](https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order).
 - [ ] If looted a second time, after reloading the area, the player will find [Goldmask's Rags](https://eldenring.wiki.fextralife.com/Goldmask's+Rags), [Gold Bracelets](https://eldenring.wiki.fextralife.com/Gold+Bracelets), and the [Gold Waistwrap](https://eldenring.wiki.fextralife.com/Gold+Waistwrap).
 - [ ] [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) may have additional dialogue after the Perfect Order ending.
 
 **NPCs Affected By Quest**: [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask)
-
-## [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux)
-
-- [x] Find her in the courtyard near Godricks grace. Exhaust her dialogue she will offer to help fight Godrick.
-  Note: you don't need to summon her for the fight for this to progress.
-- [x] After defeating Godrick she will move to the library in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). 
-- [x] Exhaust her dialogue for an Arsenal Charm.
-- [x] Give her the [Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King) remains from the [Chapel of Anticipation](https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation). (04-17)
-- [x] Follow Kenneth Haight's questline. He can be found at the top of Fort Haight, lamenting the lack of a Lord for Limgrave. Exhaust dialogue. (04-17)
-- [x] Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room. (05-01)
-
-**Note:** [Margott](https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King) must be defeated before they will appear in the throne room.
-
-- [x] Exhaust dialogue to receive reward. (05-01)
 
 ## [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl)
 
@@ -231,7 +205,7 @@ Reach Leyndell to unlock
 - [x] Bring the needle to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [Church of the Plague](https://eldenring.wiki.fextralife.com/Church+of+the+Plague) [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&lat=-178.42187&lng=150.72784&zoom=8&code=mapA)] (04-14)
 - [x] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack. (04-14)
 - [x] Return to Gowry's shack. Millicent is there. Exhaust her dialog. Quit and reload at the shack, this will move Millicent and have Gowry return. (04-14)
-- [ ] Millicent moves to north of the Erdtree-Gazing Hill Grace [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&lat=-97.914062&lng=75.558451&zoom=8&code=mapA)]. Give her [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis). (It can be found in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle))
+- [x] Millicent moves to north of the Erdtree-Gazing Hill Grace [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&lat=-97.914062&lng=75.558451&zoom=8&code=mapA)]. Give her [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis). (It can be found in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle)) (05-02)
 - [ ] After defeating boss of [Dominula](https://eldenring.wiki.fextralife.com/Windmill+Village) she will be near the Windmill Heights Grace after reload [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5809&lat=-76.82&lng=99.95&zoom=8&code=mapA)]. Exhaust her dialogue.
 - [ ] Millicent will move to Ancient Snow Valley Ruins Grace.
 - [ ] Millicent will move to the Prayer Room Grace. She will not move until player has defeated an [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Ulcerated+Tree+Spirit) mini-boss just before the Drainage Channel Grace.
@@ -254,8 +228,8 @@ Reach Leyndell to unlock
   Note: You must initiate the quest from [Rya](https://eldenring.wiki.fextralife.com/Rya) before reaching [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) or you're unable to progress.
 - [x] Buy [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from him. This befriends him and progresses his questline. (04-14)
 - [x] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight. (missed)
-- [ ] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab).
-- [ ] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater).
+- [x] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab). (05-02)
+- [x] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater). (05-02)
 - [ ] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby.
 - [ ] Then reload the area, and you must interact with the now-wounded blackguard to trigger the invasion.
 - [ ] A [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse) will be found on Big Boggart's body at the end of his questline, along with his drops. If you have been invaded by the Dung Eater in the moat before Boggart moves there, you will be unable to get a Seedbed Curse from his body.
@@ -297,6 +271,6 @@ Reach Leyndell to unlock
 - [x] Return to Tanith, she will reward you with the [Serpentbone Blade](https://eldenring.wiki.fextralife.com/Serpentbone+Blade). (04-21)
 - [x] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight. (05-01)
 - [x] After beating Rykard, return to Tanith and speak to her again. (05-01)
-- [ ] Reload the area, she will now be in Rykard's boss area, feasting on his corpse.
+- [x] Reload the area, she will now be in Rykard's boss area, feasting on his corpse. (05-02)
 - [ ] Killing Tanith rewards you with the [Consort's Set](https://eldenring.wiki.fextralife.com/Consort's+Set).
 - [ ] After killing her, you will be invaded by her bodyguard, who drops the [Aspect of the Crucible: Breath](https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible%3A+Breath) incantation.
