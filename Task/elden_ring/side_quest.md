@@ -27,18 +27,6 @@
 - [ ] Return to the [Church of Irith](https://eldenring.wiki.fextralife.com/Church+of+Irith) and give him the key. Reload to find he has gone. You will find a [Teardrop Scarab](https://eldenring.wiki.fextralife.com/Teardrop+Scarab) that drops an [Ash of War: Thops's Barrier](https://eldenring.wiki.fextralife.com/Ash+of+War:+Thops's+Barrier) instead.
 - [ ] Find his corpse just outside the room with the Schoolhouse Classroom Site of Grace, within the [Raya Lucaria Academy](https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy), to obtain [Thops Barrier](https://eldenring.wiki.fextralife.com/Thops+Barrier), [Thops's Bell Bearing](https://eldenring.wiki.fextralife.com/Thops's+Bell+Bearing) and [Academy Glintstone Staff](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Staff).
 
-## [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta)
-
-- [x] Talk to her at Lake-Facing Cliffs Site of Grace
-- [x] Giver her [Shabriri Grapes](https://eldenring.wiki.fextralife.com/Shabriri+Grape). Rewards you with the [As You Wish Gesture](https://eldenring.wiki.fextralife.com/Gestures).
-- [x] Find her in the western side of the [Purified Ruins](https://eldenring.wiki.fextralife.com/Purified+Ruins). She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape)
-- [x] Found a little north of the Gate Town Bridge site of grace. She asks for another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape). (04-15)
-- [x] Moves to [Bellum Church](https://eldenring.wiki.fextralife.com/Bellum+Church) and ask for a [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape). (04-17)
-- [x] Defeat [Festering Fingerprint Vyke](https://eldenring.wiki.fextralife.com/Festering+Fingerprint+Vyke) near the [Church of Inhibition](https://eldenring.wiki.fextralife.com/Church+of+Inhibition) for [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape), give it to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta). (04-17)
-- [x] Final location is the [Frenzied Flame Proscription](https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription). Accepting the three fingers flame she becomes your finger maiden, replacing [Melina](https://eldenring.wiki.fextralife.com/Melina). (05-02)
-
-**NPCs Affected By Quest**: [Melina](https://eldenring.wiki.fextralife.com/Melina)
-
  ## [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
 
 - [x] When you first get access to Torrent, going to the [Church of Elleh](https://eldenring.wiki.fextralife.com/Church+of+Elleh) at night to meet [Renna](https://eldenring.wiki.fextralife.com/Renna)/[Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)
@@ -73,34 +61,20 @@
 - [x] He can be found at Redmane Castle, preparing to enter the festival, alongside [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd). (04-18)
 - [x] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace. (04-18)
 - [x] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him. (04-21)
-- [ ] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava. 
+- [x] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava.  (05-04)
 - [ ] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional)
 - [ ] At [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula), Alexander can be found on a large flat span of ruins and challenges player. Drops [Shard of Alexander](https://eldenring.wiki.fextralife.com/Shard+of+Alexander) as well as Warrior Jar Shard
-
-## [Fia](https://eldenring.wiki.fextralife.com/Fia)
-
-- [x] Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia) after defeating [Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted). She only talks only while holding you, so you have no choice but to accept her hug in order to start her quest.
-- [x] Obtain the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint) from the [Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs) and return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) to give it to [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier). Talk to [Fia](https://eldenring.wiki.fextralife.com/Fia), reload the area and talk to Rogier again.
-- [x] Reach [Altus Plateau](https://eldenring.wiki.fextralife.com/Altus+Plateau) and activate the [Grand lift of Dectus](https://eldenring.wiki.fextralife.com/Grand+lift+of+Dectus). When you talk to her after this she will give you a dagger. 
-- [x] Give the dagger to D in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). (04-11)
-- [x] Reload [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and go to newly unlocked area near blacksmith. Exhaust her dialogue. (04-11)
-- [x] Head to [Deeproot Depths](https://eldenring.wiki.fextralife.com/Deeproot+Depths) and go to the Prince of Death's Throne Grace and talk to her. When she asks if you came to kill her, ask for an embrace. (05-02)
-- [x] Give her the [Cursemark of Death](https://eldenring.wiki.fextralife.com/Cursemark+of+Death) which you can get from [Ranni's Questline.](https://eldenring.wiki.fextralife.com/Ranni+the+Witch) (05-02)
-- [x] Exhaust her dialog and reload the area. She allows you to enter a dream and fight [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax). (05-02)
-- [x] Killing [Lichdragon Fortissax](https://eldenring.wiki.fextralife.com/Lichdragon+Fortissax) and returning will allow you to loot the Mending Rune of The Death-Prince where she lies along with [Fia's Hood](https://eldenring.wiki.fextralife.com/Fia's+Hood) and [Fia's Robe](https://eldenring.wiki.fextralife.com/Fia's+Robe). (05-02)
-
-**NPCs Affected By Quest**: [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead)
 
 ## [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen)
 
 - [x] Find her at [Waypoint Ruins](https://eldenring.wiki.fextralife.com/Waypoint+Ruins) in [Limgrave](https://eldenring.wiki.fextralife.com/Limgrave). Accept to study under her teaching, exhaust all dialogues.
 - [x] Return to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen). She tasks you to find another Sorcerer and gives you a key for an arcane ward.
-- [ ] Go to [Sellia Hideaway](https://eldenring.wiki.fextralife.com/Sellia+Hideaway) and open the Warded door in the second pit. Interact with the Sorcerer inside.
-- [ ] After defeating [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) return to her, exhaust dialog. 
-- [ ] Go to the [Redmane Castle](https://eldenring.wiki.fextralife.com/Redmane+Castle) throne room and exhaust dialogue with [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren), if you haven't already.
-- [ ] Find [Primeval Sorcerer Azur](https://eldenring.wiki.fextralife.com/Primeval+Sorcerer+Azur) and interact with him, near the [Hermit Village](https://eldenring.wiki.fextralife.com/+Hermit+Village). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+map?id=2307&lat=-89.835938&lng=70.905647&zoom=8&code=mapA)].
-- [ ] Meet her at the [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) for [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone).
-- [ ] Return to [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) and you'll find [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren). Exhaust his dialogue again until he mention's Sellen possibly moving to a new body.
+- [x] Go to [Sellia Hideaway](https://eldenring.wiki.fextralife.com/Sellia+Hideaway) and open the Warded door in the second pit. Interact with the Sorcerer inside. (05-05)
+- [x] After defeating [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) return to her, exhaust dialog. (05-05)
+- [x] Go to the [Redmane Castle](https://eldenring.wiki.fextralife.com/Redmane+Castle) throne room and exhaust dialogue with [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren), if you haven't already. (05-05)
+- [x] Find [Primeval Sorcerer Azur](https://eldenring.wiki.fextralife.com/Primeval+Sorcerer+Azur) and interact with him, near the [Hermit Village](https://eldenring.wiki.fextralife.com/+Hermit+Village). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+map?id=2307&lat=-89.835938&lng=70.905647&zoom=8&code=mapA)]. (05-05)
+- [x] Meet her at the [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) for [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone). (05-05)
+- [x] Return to [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) and you'll find [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren). Exhaust his dialogue again until he mention's Sellen possibly moving to a new body. (05-05)
 - [ ] Go to [Three Sisters](https://eldenring.wiki.fextralife.com/Three+Sisters) and hit the illusory floor in the center of the ruins, northeast of [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise). Inside is another illusory wall to the left of Selvius's message on the floor.
 - [ ] Interact with the Sellen puppet behind the illusory wall and give over the [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone).
 - [ ] Travel to Raya Lucaria Grand Library grace. Outside of the Library you'll find two summon signs.
@@ -183,12 +157,11 @@
 
 - [x] You will find in the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold), after reaching [Leyndell, Royal Capital](https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital).
 - [x] Give him one [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). After he asks you to find his body in sewers of Leyndell and kill him. He gives you the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key). (05-01)
-- [ ] Once you find him trapped in cell you can choose to kill him or free him.
-- [ ] If you free the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) a new message will appear in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) suggesting you meet him at the Outer Moat so he can kill you.
-- [ ] Meet him in proposed location. [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4605&lat=-93.653126&lng=115.069298&zoom=8&code=mapA)]
-- [ ] Dung Eater will invade you. Defeating him rewards [Furcalling Finger Remedy](https://eldenring.wiki.fextralife.com/Furcalling+Finger+Remedy) and [Sword of Milos](https://eldenring.wiki.fextralife.com/Sword+of+Milos).
+- [x] Once you find him trapped in cell you can choose to kill him or free him. (05-05)
+- [x] If you free the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) a new message will appear in [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) suggesting you meet him at the Outer Moat so he can kill you. (05-05)
+- [x] Meet him in proposed location. [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4605&lat=-93.653126&lng=115.069298&zoom=8&code=mapA)] (05-05)
+- [x] Dung Eater will invade you. Defeating him rewards [Furcalling Finger Remedy](https://eldenring.wiki.fextralife.com/Furcalling+Finger+Remedy) and [Sword of Milos](https://eldenring.wiki.fextralife.com/Sword+of+Milos). (05-05)
 - [ ] Travel back to [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) will ask you to give his body 5 Seedbed Curses, doing so will allow you to receive the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse) to trigger an alternate [ending](https://eldenring.wiki.fextralife.com/Endings) the game, as well as his armor set.
-- [ ] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there.
 
 **NPCs Affected By Quest**: [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), [Seluvis](https://eldenring.wiki.fextralife.com/Seluvis)
 
@@ -230,10 +203,10 @@ Reach Leyndell to unlock
 - [x] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight. (missed)
 - [x] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab). (05-02)
 - [x] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater). (05-02)
-- [ ] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby.
-- [ ] Then reload the area, and you must interact with the now-wounded blackguard to trigger the invasion.
-- [ ] A [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse) will be found on Big Boggart's body at the end of his questline, along with his drops. If you have been invaded by the Dung Eater in the moat before Boggart moves there, you will be unable to get a Seedbed Curse from his body.
-- [ ] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there.
+- [x] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby. (05-05)
+- [x] Then reload the area, and you must interact with the now-wounded blackguard to trigger the invasion. (05-05)
+- [x] A [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse) will be found on Big Boggart's body at the end of his questline, along with his drops. If you have been invaded by the Dung Eater in the moat before Boggart moves there, you will be unable to get a Seedbed Curse from his body. (05-05)
+- [x] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there. (05-05)
 
 **NPCs Affected By Quest**: [Rya](https://eldenring.wiki.fextralife.com/Rya), [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)
 
