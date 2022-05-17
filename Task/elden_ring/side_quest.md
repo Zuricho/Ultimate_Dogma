@@ -62,7 +62,7 @@
 - [x] After killing [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn), Alexander moves to Starscourge Radahn grace. (04-18)
 - [x] South of Carian Study Hall Alexander, stuck in another hole. Use one or more oil pots and then heavy attacks to free him. (04-21)
 - [x] In [Seethewater Terminus](https://eldenring.wiki.fextralife.com/Fort+Laiedd), behind the Magma Wyrm, you can find Alexander bathing in the lava.  (05-04)
-- [ ] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional)
+- [x] Alexander can be summoned to battle the Fire Giant at [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants). (Optional) (05-10)
 - [ ] At [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula), Alexander can be found on a large flat span of ruins and challenges player. Drops [Shard of Alexander](https://eldenring.wiki.fextralife.com/Shard+of+Alexander) as well as Warrior Jar Shard
 
 ## [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen)
@@ -75,12 +75,12 @@
 - [x] Find [Primeval Sorcerer Azur](https://eldenring.wiki.fextralife.com/Primeval+Sorcerer+Azur) and interact with him, near the [Hermit Village](https://eldenring.wiki.fextralife.com/+Hermit+Village). [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+map?id=2307&lat=-89.835938&lng=70.905647&zoom=8&code=mapA)]. (05-05)
 - [x] Meet her at the [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) for [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone). (05-05)
 - [x] Return to [Witchbane Ruins](https://eldenring.wiki.fextralife.com/Witchbane+Ruins) and you'll find [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren). Exhaust his dialogue again until he mention's Sellen possibly moving to a new body. (05-05)
-- [ ] Go to [Three Sisters](https://eldenring.wiki.fextralife.com/Three+Sisters) and hit the illusory floor in the center of the ruins, northeast of [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise). Inside is another illusory wall to the left of Selvius's message on the floor.
-- [ ] Interact with the Sellen puppet behind the illusory wall and give over the [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone).
-- [ ] Travel to Raya Lucaria Grand Library grace. Outside of the Library you'll find two summon signs.
-- [ ] **white** sign: you'll help Sellen kill Jerren, awarding: [Jerren's armor](https://eldenring.wiki.fextralife.com/Eccentric+Set) drop, [Glintstone Kris](https://eldenring.wiki.fextralife.com/Glintstone+Kris) and [Shard Spiral](https://eldenring.wiki.fextralife.com/Shard+Spiral) added to Sellen's shop, after transform Witch's Glintstone Crown.
-- [ ] **red sign:** you'll help Jerren kill Sellen, awarding [Witch's Glintstone Crown](https://eldenring.wiki.fextralife.com/Witch's+Glintstone+Crown) and her bell bearing. Talk to Jerren after reloading the area near the summon signs for [Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone)
-- [ ] If you chose to help [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen), after exhausting her dialogue in the Grand Library and reloading the area, Sellen will be in the body of an [Arcane Sphere of Faces](https://eldenring.wiki.fextralife.com/Arcane+Sphere+of+Faces). You can find her crown near the Grand Library Site of Grace. 
+- [x] Go to [Three Sisters](https://eldenring.wiki.fextralife.com/Three+Sisters) and hit the illusory floor in the center of the ruins, northeast of [Ranni's Rise](https://eldenring.wiki.fextralife.com/Ranni's+Rise). Inside is another illusory wall to the left of Selvius's message on the floor. (05-06)
+- [x] Interact with the Sellen puppet behind the illusory wall and give over the [Primevil Glintstone](https://eldenring.wiki.fextralife.com/Primevil+Glintstone). (05-06)
+- [x] Travel to Raya Lucaria Grand Library grace. Outside of the Library you'll find two summon signs. (05-10)
+- [x] **white** sign: you'll help Sellen kill Jerren, awarding: [Jerren's armor](https://eldenring.wiki.fextralife.com/Eccentric+Set) drop, [Glintstone Kris](https://eldenring.wiki.fextralife.com/Glintstone+Kris) and [Shard Spiral](https://eldenring.wiki.fextralife.com/Shard+Spiral) added to Sellen's shop, after transform Witch's Glintstone Crown. (05-10)
+- [x] **red sign:** you'll help Jerren kill Sellen, awarding [Witch's Glintstone Crown](https://eldenring.wiki.fextralife.com/Witch's+Glintstone+Crown) and her bell bearing. Talk to Jerren after reloading the area near the summon signs for [Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone)
+- [x] If you chose to help [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen), after exhausting her dialogue in the Grand Library and reloading the area, Sellen will be in the body of an [Arcane Sphere of Faces](https://eldenring.wiki.fextralife.com/Arcane+Sphere+of+Faces). You can find her crown near the Grand Library Site of Grace. (05-10)
 
 **NPCs Affected By Quest**: [Prospector Seluvis](https://eldenring.wiki.fextralife.com/Prospector+Seluvis), [Witch-Hunter Jerren](https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren)
 
@@ -107,7 +107,7 @@
 - [x] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue. (05-02)
 - [x] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn). (05-02)
 - [x] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue. (05-02)
-- [ ] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace. 
+- [ ] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace.
 - [ ] Continuing south, below the elevator, there's a new path that leads to a dead [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). His corpse drops the [Mending Rune of Perfect Order](https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order).
 - [ ] If looted a second time, after reloading the area, the player will find [Goldmask's Rags](https://eldenring.wiki.fextralife.com/Goldmask's+Rags), [Gold Bracelets](https://eldenring.wiki.fextralife.com/Gold+Bracelets), and the [Gold Waistwrap](https://eldenring.wiki.fextralife.com/Gold+Waistwrap).
 - [ ] [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) may have additional dialogue after the Perfect Order ending.
@@ -179,7 +179,7 @@ Reach Leyndell to unlock
 - [x] After [Millicent](https://eldenring.wiki.fextralife.com/Millicent) uses the needle, rest at the nearby site of grace, then exhaust her dialog. She will gift you the [Prosthesis-Wearer Heirloom](https://eldenring.wiki.fextralife.com/Prosthesis-Wearer+Heirloom). Rest again to move her to Gowry's shack. (04-14)
 - [x] Return to Gowry's shack. Millicent is there. Exhaust her dialog. Quit and reload at the shack, this will move Millicent and have Gowry return. (04-14)
 - [x] Millicent moves to north of the Erdtree-Gazing Hill Grace [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&lat=-97.914062&lng=75.558451&zoom=8&code=mapA)]. Give her [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis). (It can be found in the [Shaded Castle](https://eldenring.wiki.fextralife.com/Shaded+Castle)) (05-02)
-- [ ] After defeating boss of [Dominula](https://eldenring.wiki.fextralife.com/Windmill+Village) she will be near the Windmill Heights Grace after reload [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5809&lat=-76.82&lng=99.95&zoom=8&code=mapA)]. Exhaust her dialogue.
+- [x] After defeating boss of [Dominula](https://eldenring.wiki.fextralife.com/Windmill+Village) she will be near the Windmill Heights Grace after reload [[Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5809&lat=-76.82&lng=99.95&zoom=8&code=mapA)]. Exhaust her dialogue. (05-06)
 - [ ] Millicent will move to Ancient Snow Valley Ruins Grace.
 - [ ] Millicent will move to the Prayer Room Grace. She will not move until player has defeated an [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Ulcerated+Tree+Spirit) mini-boss just before the Drainage Channel Grace.
 - [ ] Once player defeats the mini-boss and rests at a Grace, there will be two summon signs near where the mini boss used to be:
@@ -193,22 +193,6 @@ Reach Leyndell to unlock
 - [ ] You can use [Miquella's Needle](https://eldenring.wiki.fextralife.com/Miquella's+Needle) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) to reverse the [Lord of Frenzied Flame Ending](https://eldenring.wiki.fextralife.com/Endings).
 
 **NPCs Affected By Quest**: [Gowry](https://eldenring.wiki.fextralife.com/Gowry)
-
-## [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart)
-
-- [x] Boggart is introduced as the thief from [Rya](https://eldenring.wiki.fextralife.com/Rya)'s questline.
-- [x] Buy the necklace from him for 1,000 [Runes](https://eldenring.wiki.fextralife.com/Runes).
-  Note: You must initiate the quest from [Rya](https://eldenring.wiki.fextralife.com/Rya) before reaching [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) or you're unable to progress.
-- [x] Buy [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from him. This befriends him and progresses his questline. (04-14)
-- [x] He can be summoned for the [Magma Wyrm Makar](https://eldenring.wiki.fextralife.com/Magma+Wyrm+Makar) fight. (missed)
-- [x] He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling [Boiled Crabs](https://eldenring.wiki.fextralife.com/Boiled+Crab). (05-02)
-- [x] At the Leyndell moat, he will warn the player about his time in prison with the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater). (05-02)
-- [x] If the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)'s questline is at the point where he will be "waiting in the outer moat", and the blackguard is present in Leyndell, exhaust Big Boggart's dialogue here until he says he thinks the Dung Eater is lurking somewhere nearby. (05-05)
-- [x] Then reload the area, and you must interact with the now-wounded blackguard to trigger the invasion. (05-05)
-- [x] A [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse) will be found on Big Boggart's body at the end of his questline, along with his drops. If you have been invaded by the Dung Eater in the moat before Boggart moves there, you will be unable to get a Seedbed Curse from his body. (05-05)
-- [x] **Note:** At some point [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) kills [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart), but you can prevent this! To do this, you have to buy only the necklace from Blackguard and then progress Dung Eater's quest until he has died and given you the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse), of if you have decided to give him Seluvis' potion. Buy from Blackguard, and this will make him move to the Capital and set up shop there. (05-05)
-
-**NPCs Affected By Quest**: [Rya](https://eldenring.wiki.fextralife.com/Rya), [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater)
 
 ## [Latenna](https://eldenring.wiki.fextralife.com/Latenna)
 
@@ -245,5 +229,5 @@ Reach Leyndell to unlock
 - [x] Reload the area, talk to her again to be teleported to the entrance of [Rykard's](https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy) boss fight. (05-01)
 - [x] After beating Rykard, return to Tanith and speak to her again. (05-01)
 - [x] Reload the area, she will now be in Rykard's boss area, feasting on his corpse. (05-02)
-- [ ] Killing Tanith rewards you with the [Consort's Set](https://eldenring.wiki.fextralife.com/Consort's+Set).
-- [ ] After killing her, you will be invaded by her bodyguard, who drops the [Aspect of the Crucible: Breath](https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible%3A+Breath) incantation.
+- [x] Killing Tanith rewards you with the [Consort's Set](https://eldenring.wiki.fextralife.com/Consort's+Set). (05-09)
+- [x] After killing her, you will be invaded by her bodyguard, who drops the [Aspect of the Crucible: Breath](https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible%3A+Breath) incantation. (05-09)
