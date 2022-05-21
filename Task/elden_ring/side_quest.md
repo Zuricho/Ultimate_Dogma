@@ -107,10 +107,10 @@
 - [x] After Defeating Godfrey, First Elden Lord (Golden Shade) he will move to the colosseum at Leyndell, exhaust his dialogue. (05-02)
 - [x] Get the incantation [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) (requires 33 [INT](https://eldenring.wiki.fextralife.com/Intelligence), boostable). Head west from Erdtree sanctuary grace until you see a white message saying "Regression" facing a statue. Cast [Law of Regression](https://eldenring.wiki.fextralife.com/Law+of+Regression) on the message while facing the statue. New message appears. Read it and return to [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn). (05-02)
 - [x] [Brother Coryhn](https://eldenring.wiki.fextralife.com/Brother+Coryhn) and [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) will move to the bridge south of Stargazers Ruins. Exhaust his dialogue. (05-02)
-- [ ] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace.
-- [ ] Continuing south, below the elevator, there's a new path that leads to a dead [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). His corpse drops the [Mending Rune of Perfect Order](https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order).
-- [ ] If looted a second time, after reloading the area, the player will find [Goldmask's Rags](https://eldenring.wiki.fextralife.com/Goldmask's+Rags), [Gold Bracelets](https://eldenring.wiki.fextralife.com/Gold+Bracelets), and the [Gold Waistwrap](https://eldenring.wiki.fextralife.com/Gold+Waistwrap).
-- [ ] [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) may have additional dialogue after the Perfect Order ending.
+- [x] After killing [Fire Giant](https://eldenring.wiki.fextralife.com/Fire+Giant) and [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) in [Crumbling Farum Azula](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula) he can be found at Capital of Ash grace. (05-19)
+- [x] Continuing south, below the elevator, there's a new path that leads to a dead [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask). His corpse drops the [Mending Rune of Perfect Order](https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order). (05-19)
+- [x] If looted a second time, after reloading the area, the player will find [Goldmask's Rags](https://eldenring.wiki.fextralife.com/Goldmask's+Rags), [Gold Bracelets](https://eldenring.wiki.fextralife.com/Gold+Bracelets), and the [Gold Waistwrap](https://eldenring.wiki.fextralife.com/Gold+Waistwrap).
+- [x] [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) may have additional dialogue after the Perfect Order ending. (05-19)
 
 **NPCs Affected By Quest**: [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask)
 
@@ -201,7 +201,7 @@ Reach Leyndell to unlock
 - [x] Speak to Albus for [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)). (04-17)
 - [x] Return Medallion to Latenna.  (04-17)
 - [x] Promise to take Latenna to Haligtree. She joins and becomes Spirit Ash summon, [Latenna the Albinauric](https://eldenring.wiki.fextralife.com/Latenna+The+Albinauric) She will also hint at the location of the [Haligtree Secret Medallion (Left)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)). (04-17)
-- [ ] Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric, rewarding [Somber Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone).
+- [x] Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric, rewarding [Somber Ancient Dragon Smithing Stone](https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone). (05-16)
 
 **Quest Lock-Out Conditions (excl. Death of NPC)**: Advancing too far and not speaking to Latenna (dies, drops Spirit Ashes)
 
