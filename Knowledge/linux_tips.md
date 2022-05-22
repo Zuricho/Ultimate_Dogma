@@ -105,6 +105,10 @@ gzip *% 把当前目录下的每个文件压缩成 .gz 文件。gzip -dv * 把�
 
 
 
+加速gzip：pigz方法
+
+https://leimao.github.io/blog/Parallel-Gzip-Pigz/
+
 ## 传输文件
 
 rsync: https://www.jianshu.com/p/b862af872cbd
