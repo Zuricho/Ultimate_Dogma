@@ -50,7 +50,7 @@
 - [x] Using the coffin in the Grand Cloister, access and defeat [Astel](https://eldenring.wiki.fextralife.com/Astel,+Naturalborn+of+the+Void) (04-28)
 - [x] Continue to the [Moonlight Altar](https://eldenring.wiki.fextralife.com/Moonlight+Altar), past [Glintstone Dragon Adula](https://eldenring.wiki.fextralife.com/Glintstone+Dragon+Adula), and enter the [Cathedral of Manus Celes](https://eldenring.wiki.fextralife.com/Cathedral+of+Manus+Celes) (04-28)
 - [x] Use the Dark Moon Ring on the Miniature Ranni to revive Ranni for [Dark Moon Greatsword](https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword) (04-28)
-- [ ] If you return to Ranni's Chamber, after achieving the Age of Stars ending, there is additional dialogue with Miniature Ranni.
+- [x] If you return to Ranni's Chamber, after achieving the Age of Stars ending, there is additional dialogue with Miniature Ranni. (05-24)
 
 **NPCs Affected By Quest**: [War Counseler Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji), [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Selvius](https://eldenring.wiki.fextralife.com/Selvius), [Sorcerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)
 

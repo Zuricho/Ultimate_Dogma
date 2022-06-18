@@ -98,9 +98,9 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 ## BOSSES IN [ALTUS PLATEAU](https://eldenring.wiki.fextralife.com/Altus+Plateau)
 
 - [ ] [Ancient Hero of Zamor](https://eldenring.wiki.fextralife.com/Ancient+Hero+of+Zamor)
-- [ ] [Ancient Dragon Lansseax](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Lansseax)
+- [x] [Ancient Dragon Lansseax](https://eldenring.wiki.fextralife.com/Ancient+Dragon+Lansseax) (05-24)
 - [ ] [Black Knife Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) ([Sage's Cave](https://eldenring.wiki.fextralife.com/Sage's+Cave))
-- [ ] [Black Knife Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) ([Sainted Hero's Grave](https://eldenring.wiki.fextralife.com/Sainted+Hero's+Grave))
+- [x] [Black Knife Assassin](https://eldenring.wiki.fextralife.com/Black+Knife+Assassin) ([Sainted Hero's Grave](https://eldenring.wiki.fextralife.com/Sainted+Hero's+Grave)) (05-24)
 - [x] [Crystalian Spear & Crystalian Ringblade](https://eldenring.wiki.fextralife.com/Crystalians) (05-15)
 - [ ] [Demi-Human Queen Gilika](https://eldenring.wiki.fextralife.com/Demi-Human+Queen+Gilika)
 - [x] [Elemer of the Briar](https://eldenring.wiki.fextralife.com/Elemer+of+the+Briar) (05-02)
@@ -174,13 +174,13 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 
 ## BOSSES IN [AINSEL RIVER](https://eldenring.wiki.fextralife.com/Ainsel+River)
 
-- [ ] [Dragonkin Soldier of Nokstella](https://eldenring.wiki.fextralife.com/Dragonkin+Soldier+of+Nokstella)
+- [x] [Dragonkin Soldier of Nokstella](https://eldenring.wiki.fextralife.com/Dragonkin+Soldier+of+Nokstella) (05-24)
 
 ## BOSSES IN [CRUMBLING FARUM AZULA](https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula)
 
 - [x] [Godskin Duo](https://eldenring.wiki.fextralife.com/Godskin+Duo) (05-18)
 - [x] [Beast Clergyman](https://eldenring.wiki.fextralife.com/Beast+Clergyman) / [Maliketh, the Black Blade](https://eldenring.wiki.fextralife.com/Maliketh,+the+Black+Blade) (05-18)
-- [ ] [Dragonlord Placidusax](https://eldenring.wiki.fextralife.com/Dragonlord+Placidusax)
+- [x] [Dragonlord Placidusax](https://eldenring.wiki.fextralife.com/Dragonlord+Placidusax) (05-24)
 
 ## BOSSES IN [FORBIDDEN LANDS](https://eldenring.wiki.fextralife.com/Forbidden+Lands)
 
@@ -213,7 +213,7 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 - [x] [Malenia, Blade of Miquella](https://eldenring.wiki.fextralife.com/Malenia,+Blade+of+Miquella) (05-18)
 - [ ] [Misbegotten Crusader](https://eldenring.wiki.fextralife.com/Misbegotten+Crusader)
 - [ ] [Night's Cavalry (Duo)](https://eldenring.wiki.fextralife.com/Night's+Cavalry)
-- [ ] [Putrid Avatar](https://eldenring.wiki.fextralife.com/Putrid+Avatar)
+- [ ] [Putrid Avatar ](https://eldenring.wiki.fextralife.com/Putrid+Avatar) (05-26)
 - [ ] [Putrid Grave Warden Duelist](https://eldenring.wiki.fextralife.com/Putrid+Grave+Warden+Duelist)
 - [ ] [Stray Mimic Tear](https://eldenring.wiki.fextralife.com/Mimic+Tear)
 
@@ -226,7 +226,7 @@ Data source: [ELDEN RING wiki](https://eldenring.wiki.fextralife.com/Bosses)
 
 ## BOSSES IN [ELDEN THRONE](https://eldenring.wiki.fextralife.com/Elden+Throne)
 
-- [ ] [Radagon of the Golden Order](https://eldenring.wiki.fextralife.com/Radagon+of+the+Golden+Order) / [Elden Beast](https://eldenring.wiki.fextralife.com/Elden+Beast)
+- [x] [Radagon of the Golden Order](https://eldenring.wiki.fextralife.com/Radagon+of+the+Golden+Order) / [Elden Beast](https://eldenring.wiki.fextralife.com/Elden+Beast) (05-24)
 
 
 
