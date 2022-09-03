@@ -103,7 +103,7 @@ gzip 命令
 
 gzip *% 把当前目录下的每个文件压缩成 .gz 文件。gzip -dv * 把当前目录下每个压缩的文件解压，并列出详细的信息。gzip -l *% 详细显示例1中每个压缩的文件的信息，并不解压。gzip usr.tar% 压缩 tar 备份文件 usr.tar，此时压缩文件的扩展名为.tar.gz。
 
-
+ls *.tar.gz | xargs -n1 tar xzvf 解压文件夹下全部的.tar.gz
 
 加速gzip：pigz方法
 
